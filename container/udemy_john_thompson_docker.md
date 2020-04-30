@@ -1,84 +1,84 @@
 ### Course content
 #### Section 1: Introduction
-1. Course Introduction
-2. Instructor Introduction
-3. Free 120 Day IntelliJ Trial!
-4. Checking out from GitHub
-5. Docker Cheat Sheet
-6. Course Slack Room - Chat Live
+1. Course Introduction - **done**
+2. Instructor Introduction - **done**
+3. Free 120 Day IntelliJ Trial! - **done**
+4. Checking out from GitHub - **done**
+5. Docker Cheat Sheet - **done**
+6. Course Slack Room - Chat Live - **done**
 #### Section 2: Introduction to Docker
-7. Introduction
-8. What is Docker
-9. Docker Editions
-10. Installing Docker
-11. Hello World with Docker
-12. Docker Hub
-13. Introducing KiteMatic
-14. Assignment - Run Hello World
-15. Conclusion
+7. Introduction - **done**
+8. What is Docker - **done**
+9. Docker Editions - **done**
+10. Installing Docker - **done**
+11. Hello World with Docker - **done**
+12. Docker Hub - **done**
+13. Introducing KiteMatic - **done**
+14. Assignment - Run Hello World - **done**
+15. Conclusion - **done**
 #### Section 3: Working with Containers and Images
-16. Introduction
-17. Running Mongo DB Docker
-18. Assignment - download and run
-19. Assignment Review
-20. Docker Images
-21. Docker Files
-22. Non Persistent Container
-23. Assigning Storage
-24. Assignment - Run Rabbit MQ in
-25. Assignment Review
-26. Assignment - Run MySQL in a
-27. Assignment Review
-28. Docker House Keeping
-29. Flash Cards
-30. Conclusion
+16. Introduction - **done**
+17. Running Mongo DB Docker - **done**
+18. Assignment - download and run - **done**
+19. Assignment Review - **done**
+20. Docker Images - **done**
+21. Docker Files - **done**
+22. Non Persistent Container - **done**
+23. Assigning Storage - **done**
+24. Assignment - Run Rabbit MQ in - **done**
+25. Assignment Review - **done**
+26. Assignment - Run MySQL in a - **done**
+27. Assignment Review - **done**
+28. Docker House Keeping - **done**
+29. Flash Cards - **done**
+30. Conclusion - **done**
 #### Section 4: Running Spring Boot in a Centos Image
-31. Introduction
-32. Preparing CentOS for Java
-33. Run Your Own Spring Boot App
-34. Sample Spring Boot Application
-35. Running Spring Boot
-36. Assignment - Fix Dockerfile
-37. Assignment Review
-38. Interview with James Labocki
-39. Conclusion
+31. Introduction - **done**
+32. Preparing CentOS for Java - **done**
+33. Run Your Own Spring Boot App - **done**
+34. Sample Spring Boot Application - **done**
+35. Running Spring Boot - **done**
+36. Assignment - Fix Dockerfile - **done**
+37. Assignment Review - **done**
+38. Interview with James Labocki - **done**
+39. Conclusion - **done**
 #### Section 5: DevOps - Automating Building of Docker Images
-40. Introduction
-41. Maven vs Gradle and Fabric8
-42. Spring Boot Application Code
-43. Adding Fabric8 Maven Plugin
-44. Creating Docker Image in Fabric8
-45. Publishing to Dockerhub
-46. Assignment - perform a release
-47. Assignment Code Review
-48. Using A Docker File Template
-49. Flash Cards
-50. Conclusion
+40. Introduction - **done**
+41. Maven vs Gradle and Fabric8 - **done**
+42. Spring Boot Application Code - **done**
+43. Adding Fabric8 Maven Plugin - **done**
+44. Creating Docker Image in Fabric8 - **done**
+45. Publishing to Dockerhub - **done**
+46. Assignment - perform a release - **done**
+47. Assignment Code Review - **done**
+48. Using A Docker File Template - **done**
+49. Flash Cards - **done**
+50. Conclusion - **done**
 #### Section 6: Running Images from Maven
-51. Introduction
-52. Running a Docker image from Maven
-53. Design for a more robust application
-54. Application Code Review
-55. Running Example Application with Docker
-56. Running Docker Containers via Maven
-57. Using Docker Containers for Integration Testing
-58. Using Maven for CI Builds
-59. Assignment: Add Pageview Counter for Index Page
-60. Assignment Review
-61. Flash Cards
-62. Conclusion
+51. Introduction - **done**
+52. Running a Docker image from Maven - **done**
+53. Design for a more robust application - **done**
+54. Application Code Review - **done**
+55. Running Example Application with Docker - **done**
+56. Running Docker Containers via Maven - **done**
+57. Using Docker Containers for Integration Testing - **done**
+58. Using Maven for CI Builds - **done**
+59. Assignment: Add Pageview Counter for Index Page - **done**
+60. Assignment Review - **done**
+61. Flash Cards - **done**
+62. Conclusion - **done**
 #### Section 7: Using Docker Compose
-63. Introduction to Docker Compose
-64. YAML Crash Course
-65. Run Wordpress with Docker Compose
-66. Run Pageview Service with Docker Compose
-67. Assignment: Add Web Application to Docker Compose
-68. Assignment Review
-69. Adding Spring Boot Actuator
-70. Conclusion
+63. Introduction to Docker Compose - **done**
+64. YAML Crash Course - **done**
+65. Run Wordpress with Docker Compose - **done**
+66. Run Pageview Service with Docker Compose - **done**
+67. Assignment: Add Web Application to Docker Compose - **done**
+68. Assignment Review - **done**
+69. Adding Spring Boot Actuator - **done**
+70. Conclusion - **done**
 #### Section 8: Docker Swarm Mode
-71. Introduction
-72. What is Docker Swarm Mode?
+71. Introduction - **done**
+72. What is Docker Swarm Mode? - **done**
 73. Docker Swarm Mode Init
 74. Docker Swarm Topology
 75. Provision Servers for Docker Swarm
