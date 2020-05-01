@@ -85,7 +85,7 @@
 76. Assignment - Install Docker on Swarm Servers - **done**
 77. Assignment - Review Install Docker - **done**
 78. Creating a Multi Node Docker Swarm - **done**
-79. Assignment - Install Portainer
+79. Assignment - Install Portainer - **done**
 80. Assignment Review
 81. Docker Swarm Service Discovery
 82. Docker Swarm Routing Mesh
