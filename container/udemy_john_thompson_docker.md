@@ -80,7 +80,7 @@
 71. Introduction - **done**
 72. What is Docker Swarm Mode? - **done**
 73. Docker Swarm Mode Init - **done**
-74. Docker Swarm Topology
+74. Docker Swarm Topology - **done**
 75. Provision Servers for Docker Swarm
 76. Assignment - Install Docker on Swarm Servers
 77. Assignment - Review Install Docker
