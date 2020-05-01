@@ -88,9 +88,9 @@
 79. Assignment - Install Portainer - **done**
 80. Assignment Review - **done**
 81. Docker Swarm Service Discovery - **done**
-82. Docker Swarm Routing Mesh
-83. Flash Cards
-84. Conclusion
+82. Docker Swarm Routing Mesh - **done**
+83. Flash Cards - **done**
+84. Conclusion - **done**
 #### Section 9: Running Java Apps in Docker Swarm
 85. Introduction
 86. Deploy MySQL as Service in Docker Swarm
