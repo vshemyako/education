@@ -87,7 +87,7 @@
 78. Creating a Multi Node Docker Swarm - **done**
 79. Assignment - Install Portainer - **done**
 80. Assignment Review - **done**
-81. Docker Swarm Service Discovery
+81. Docker Swarm Service Discovery - **done**
 82. Docker Swarm Routing Mesh
 83. Flash Cards
 84. Conclusion
