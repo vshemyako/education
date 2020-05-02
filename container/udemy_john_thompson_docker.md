@@ -92,8 +92,8 @@
 83. Flash Cards - **done**
 84. Conclusion - **done**
 #### Section 9: Running Java Apps in Docker Swarm
-85. Introduction
-86. Deploy MySQL as Service in Docker Swarm
+85. Introduction - **done**
+86. Deploy MySQL as Service in Docker Swarm - **done**
 87. Docker Overlay Networks
 88. Docker Swarm Stacks
 89. Using Docker Secrets
