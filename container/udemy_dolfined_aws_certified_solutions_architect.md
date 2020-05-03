@@ -1,7 +1,7 @@
 ### Course content
 #### Section 1: Course Introduction
 1. Introduction - **done**
-2. Architect Profession - Info you need to know
+2. Architect Profession - Info you need to know - **done**
 3. Recommended Study Plan for best results & Video Speed Control
 4. Exam Blueprint and AWS website tour (certification and documentation knowledge)
 5. Requesting 30 Minutes additional Exam time for Non Native English Speakers
