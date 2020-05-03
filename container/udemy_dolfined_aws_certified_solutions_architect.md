@@ -1,5 +1,11 @@
 ### Course content
 #### Section 1: Course Introduction
+1. Introduction - **done**
+2. Architect Profession - Info you need to know
+3. Recommended Study Plan for best results & Video Speed Control
+4. Exam Blueprint and AWS website tour (certification and documentation knowledge)
+5. Requesting 30 Minutes additional Exam time for Non Native English Speakers
+6. Early Review & Summary PDF Download
 #### Section 2: Introduction to Cloud Computing and AWS Global Infrastructure
 #### Section 3: Getting started with AWS - Free Tier Account Setup & AWS IAM Foundation
 #### Section 4: AWS Services Foundation - Introduction to EC2, EBS, IAM, S3
