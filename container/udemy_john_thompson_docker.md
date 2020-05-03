@@ -95,7 +95,7 @@
 85. Introduction - **done**
 86. Deploy MySQL as Service in Docker Swarm - **done**
 87. Docker Overlay Networks - **done**
-88. Docker Swarm Stacks
+88. Docker Swarm Stacks - **done**
 89. Using Docker Secrets
 90. Implementing Docker Secrets
 91. Conclusion
