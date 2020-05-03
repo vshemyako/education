@@ -97,8 +97,8 @@
 87. Docker Overlay Networks - **done**
 88. Docker Swarm Stacks - **done**
 89. Using Docker Secrets - **done**
-90. Implementing Docker Secrets
-91. Conclusion
+90. Implementing Docker Secrets - **done**
+91. Conclusion - **done**
 #### Section 10: Appendix A - Using GitHub
 92. GitHub Basics - **done**
 #### Section 11: Spring Boot Cookbook
