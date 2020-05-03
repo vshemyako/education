@@ -8,7 +8,7 @@
 6. Early Review & Summary PDF Download - **done**
 #### Section 2: Introduction to Cloud Computing and AWS Global Infrastructure
 7. This section is for absolute beginners in Cloud Computing - **done**
-8. On Premise Data Center , What is Cloud Computing
+8. On Premise Data Center, What is Cloud Computing - **done**
 9. Cloud Computing Offerings - Public, Private and Hybrid Cloud
 10. AWS as the Public Cloud IaaS Leader
 11. AWS Global Infrastructure - Regions and Availability Zones
