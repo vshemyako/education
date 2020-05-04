@@ -13,6 +13,12 @@
 10. AWS as the Public Cloud IaaS Leader - **done**
 11. AWS Global Infrastructure - Regions and Availability Zones - **done**
 #### Section 3: Getting started with AWS - Free Tier Account Setup & AWS IAM Foundation
+12. DEMO - Creating an AWS Free Tier Account - Setting up the AWS Hands-on - **done**
+13. DEMO - Logging on to AWS Console for the 1st time & MFA for the root user
+14. Hands On Labs - Introduction to Identity and Access Management (IAM)
+15. DEMO - Creating Users in a Group , Assigning Group membership and Permissions
+16. DEMO - IAM password policy and Billing Alarms
+17. Hands on Lab - AWS Billing Alerts and Cost Budgets
 #### Section 4: AWS Services Foundation - Introduction to EC2, EBS, IAM, S3
 #### Section 5: Core Knowledge - VPC, Sec Group, N ACL, Elastic IP, NAT, VPN, VPC Peering & D.Connect
 #### Section 6: Core Knowledge - Master VPC (& its Components) Scenario based Practice Questions
