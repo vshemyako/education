@@ -11,7 +11,7 @@
 8. On Premise Data Center, What is Cloud Computing - **done**
 9. Cloud Computing Offerings - Public, Private and Hybrid Cloud - **done**
 10. AWS as the Public Cloud IaaS Leader - **done**
-11. AWS Global Infrastructure - Regions and Availability Zones
+11. AWS Global Infrastructure - Regions and Availability Zones - **done**
 #### Section 3: Getting started with AWS - Free Tier Account Setup & AWS IAM Foundation
 #### Section 4: AWS Services Foundation - Introduction to EC2, EBS, IAM, S3
 #### Section 5: Core Knowledge - VPC, Sec Group, N ACL, Elastic IP, NAT, VPN, VPC Peering & D.Connect
