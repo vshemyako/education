@@ -21,7 +21,7 @@
 17. Hands on Lab - AWS Billing Alerts and Cost Budgets - **done**
 #### Section 4: AWS Services Foundation - Introduction to EC2, EBS, IAM, S3
 18. Elastic Compute Cloud (EC2) Foundation - **done**
-19. Hands On Lab - Create your first EC2 instance
+19. Hands On Lab - Create your first EC2 instance - **done**
 #### Section 5: Core Knowledge - VPC, Sec Group, N ACL, Elastic IP, NAT, VPN, VPC Peering & D.Connect
 #### Section 6: Core Knowledge - Master VPC (& its Components) Scenario based Practice Questions
 #### Section 7: Core Knowledge - Master Elastic Compute Cloud (EC2) Exam Required Knowledge
