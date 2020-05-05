@@ -23,6 +23,44 @@
 18. Elastic Compute Cloud (EC2) Foundation - **done**
 19. Hands On Lab - Create your first EC2 instance - **done**
 #### Section 5: Core Knowledge - VPC, Sec Group, N ACL, Elastic IP, NAT, VPN, VPC Peering & D.Connect
+20. Core Knowledge - VPC introduction
+21. Core Knowledge - VPC Components - Implied Router and Route Tables
+22. Core Knowledge -VPC Components - IP Addressing - Internet Gateway - Subnet Types
+23. DEMO - VPC Overview Lab # 1
+24. DEMO - VPC Overview Lab # 2
+25. Core Knowledge - VPC Components - VPC Types and Introduction to Security Groups
+26. DEMO VPC Lab # 3 - Creating A Custom VPC
+27. DEMO - VPC Lab # 4 - Security Groups
+28. Core Knowledge - VPC Components - Security Groups Mastery
+29. Core Knowledge - VPC Components - Network Access Control Lists (N ACLs)
+30. DEMO VPC Lab # 5 - Network Access Control Lists (NACLs)
+31. Core Knowledge - VPC - Network ACLs and Security Groups
+32. Core Knowledge - VPC - Network ACLs vs. Security Groups
+33. Core Knowledge - VPC Security Scenarios - Applying Security Group and N ACLs
+34. Core Knowledge - VPC - Network Address Translation - NAT
+35. Core Knowledge - VPC Peering
+36. DEMO - VPC Lab # 7 - Working with VPC Peering Across Accounts/Regions
+37. Core Knowledge - Transit Gateway
+38. Core Knowledge - VPC Virtual Private Networks (VPN)
+39. Core Knowledge - VPC Direct Connect
+40. Core Knowledge - Direct Connect Routing and Link Aggregation Groups (LAGs)
+41. Hybrid Connectivity Use Cases / Scenarios
+42. Core Knowledge - AWS Direct Connect Gateway
+43. Core Knowledge - AWS Direct Connect Limits
+44. AWS VPC - VPC Endpoints - Gateway Endpoint
+45. AWS VPC - Hands On Lab - VPC Gateway Endpoint
+46. AWS VPC - VPC Interface Endpoint
+47. Hands On Labs - VPC Inteface Endpoints
+48. Egress Only Internet Gateway (for IPv6)
+49. Hands On Labs - Egress-only Internet Gateway
+50. Core Knowledge - VPC Flow log and DHCP Option Sets
+51. Hands On Labs - VPC Flowlogs
+Quiz 1: VPC Quiz 1
+Quiz 2: VPC Quiz 2
+Quiz 3: VPC Quiz 3
+Quiz 4: VPC Quiz 4
+Quiz 5: VPC Quiz 5
+Quiz 6: VPC Quiz 6
 #### Section 6: Core Knowledge - Master VPC (& its Components) Scenario based Practice Questions
 #### Section 7: Core Knowledge - Master Elastic Compute Cloud (EC2) Exam Required Knowledge
 #### Section 8: Core Knowledge - Master AWS EC2 - Scenario based Practice Questions
