@@ -17,7 +17,7 @@
 13. DEMO - Logging on to AWS Console for the 1st time & MFA for the root user - **done**
 14. Hands On Labs - Introduction to Identity and Access Management (IAM) - **done**
 15. DEMO - Creating Users in a Group , Assigning Group membership and Permissions - **done**
-16. DEMO - IAM password policy and Billing Alarms
+16. DEMO - IAM password policy and Billing Alarms - **done**
 17. Hands on Lab - AWS Billing Alerts and Cost Budgets
 #### Section 4: AWS Services Foundation - Introduction to EC2, EBS, IAM, S3
 #### Section 5: Core Knowledge - VPC, Sec Group, N ACL, Elastic IP, NAT, VPN, VPC Peering & D.Connect
