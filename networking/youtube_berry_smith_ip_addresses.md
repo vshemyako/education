@@ -7,3 +7,6 @@
 6. What is subnetting and why to subnet - **done**
 7. How to subnet a network (pt1) - **done**
 8. How to subnet a network (pt2) - **done**
+
+Links:
+[Berry Smith's networking mini-course](https://www.youtube.com/watch?v=90Y-4ye14Io&list=PLBrFb3pVxnMq07x6weWfNl3fWA34y7BdW)
