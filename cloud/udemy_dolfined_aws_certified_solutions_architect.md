@@ -28,7 +28,7 @@
 22. Core Knowledge - VPC Components - IP Addressing - Internet Gateway - Subnet Types - **done**
 23. DEMO - VPC Overview Lab # 1 - **done**
 24. DEMO - VPC Overview Lab # 2 - **done**
-25. Core Knowledge - VPC Components - VPC Types and Introduction to Security Groups
+25. Core Knowledge - VPC Components - VPC Types and Introduction to Security Groups - **done**
 26. DEMO VPC Lab # 3 - Creating A Custom VPC
 27. DEMO - VPC Lab # 4 - Security Groups
 28. Core Knowledge - VPC Components - Security Groups Mastery
