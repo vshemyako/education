@@ -25,8 +25,8 @@
 #### Section 5: Core Knowledge - VPC, Sec Group, N ACL, Elastic IP, NAT, VPN, VPC Peering & D.Connect
 20. Core Knowledge - VPC introduction - **done**
 21. Core Knowledge - VPC Components - Implied Router and Route Tables - **done**
-22. Core Knowledge - VPC Components - IP Addressing - Internet Gateway - Subnet Types **done**
-23. DEMO - VPC Overview Lab # 1
+22. Core Knowledge - VPC Components - IP Addressing - Internet Gateway - Subnet Types - **done**
+23. DEMO - VPC Overview Lab # 1 - **done**
 24. DEMO - VPC Overview Lab # 2
 25. Core Knowledge - VPC Components - VPC Types and Introduction to Security Groups
 26. DEMO VPC Lab # 3 - Creating A Custom VPC
