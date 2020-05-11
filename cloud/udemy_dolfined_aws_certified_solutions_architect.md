@@ -35,7 +35,7 @@
 29. Core Knowledge - VPC Components - Network Access Control Lists (N ACLs) - **done**
 30. DEMO VPC Lab # 5 - Network Access Control Lists (NACLs) - **done**
 31. Core Knowledge - VPC - Network ACLs and Security Groups - **done**
-32. Core Knowledge - VPC - Network ACLs vs. Security Groups
+32. Core Knowledge - VPC - Network ACLs vs. Security Groups - **done**
 33. Core Knowledge - VPC Security Scenarios - Applying Security Group and N ACLs
 34. Core Knowledge - VPC - Network Address Translation - NAT
 35. Core Knowledge - VPC Peering
