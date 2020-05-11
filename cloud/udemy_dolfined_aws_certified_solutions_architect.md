@@ -36,7 +36,7 @@
 30. DEMO VPC Lab # 5 - Network Access Control Lists (NACLs) - **done**
 31. Core Knowledge - VPC - Network ACLs and Security Groups - **done**
 32. Core Knowledge - VPC - Network ACLs vs. Security Groups - **done**
-33. Core Knowledge - VPC Security Scenarios - Applying Security Group and N ACLs
+33. Core Knowledge - VPC Security Scenarios - Applying Security Group and N ACLs - **done**
 34. Core Knowledge - VPC - Network Address Translation - NAT
 35. Core Knowledge - VPC Peering
 36. DEMO - VPC Lab # 7 - Working with VPC Peering Across Accounts/Regions
