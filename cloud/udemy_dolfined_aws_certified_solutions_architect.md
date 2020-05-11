@@ -32,7 +32,7 @@
 26. DEMO - VPC Lab # 3 - Creating A Custom VPC - **done**
 27. DEMO - VPC Lab # 4 - Security Groups - **done**
 28. Core Knowledge - VPC Components - Security Groups Mastery - **done**
-29. Core Knowledge - VPC Components - Network Access Control Lists (N ACLs)
+29. Core Knowledge - VPC Components - Network Access Control Lists (N ACLs) - **done**
 30. DEMO VPC Lab # 5 - Network Access Control Lists (NACLs)
 31. Core Knowledge - VPC - Network ACLs and Security Groups
 32. Core Knowledge - VPC - Network ACLs vs. Security Groups
