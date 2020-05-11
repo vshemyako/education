@@ -33,7 +33,7 @@
 27. DEMO - VPC Lab # 4 - Security Groups - **done**
 28. Core Knowledge - VPC Components - Security Groups Mastery - **done**
 29. Core Knowledge - VPC Components - Network Access Control Lists (N ACLs) - **done**
-30. DEMO VPC Lab # 5 - Network Access Control Lists (NACLs)
+30. DEMO VPC Lab # 5 - Network Access Control Lists (NACLs) - **done**
 31. Core Knowledge - VPC - Network ACLs and Security Groups
 32. Core Knowledge - VPC - Network ACLs vs. Security Groups
 33. Core Knowledge - VPC Security Scenarios - Applying Security Group and N ACLs
@@ -50,7 +50,7 @@
 44. AWS VPC - VPC Endpoints - Gateway Endpoint
 45. AWS VPC - Hands On Lab - VPC Gateway Endpoint
 46. AWS VPC - VPC Interface Endpoint
-47. Hands On Labs - VPC Inteface Endpoints
+47. Hands On Labs - VPC Interface Endpoints
 48. Egress Only Internet Gateway (for IPv6)
 49. Hands On Labs - Egress-only Internet Gateway
 50. Core Knowledge - VPC Flow log and DHCP Option Sets
