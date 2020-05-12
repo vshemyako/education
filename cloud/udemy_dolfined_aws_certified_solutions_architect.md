@@ -39,7 +39,7 @@
 33. Core Knowledge - VPC Security Scenarios - Applying Security Group and N ACLs - **done**
 34. Core Knowledge - VPC - Network Address Translation - NAT - **done**
 35. Core Knowledge - VPC Peering - **done**
-36. DEMO - VPC Lab # 7 - Working with VPC Peering Across Accounts/Regions
+36. DEMO - VPC Lab # 7 - Working with VPC Peering Across Accounts/Regions - **done**
 37. Core Knowledge - Transit Gateway
 38. Core Knowledge - VPC Virtual Private Networks (VPN)
 39. Core Knowledge - VPC Direct Connect
