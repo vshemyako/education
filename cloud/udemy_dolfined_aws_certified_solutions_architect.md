@@ -41,7 +41,7 @@
 35. Core Knowledge - VPC Peering - **done**
 36. DEMO - VPC Lab # 7 - Working with VPC Peering Across Accounts/Regions - **done**
 37. Core Knowledge - Transit Gateway - **done**
-38. Core Knowledge - VPC Virtual Private Networks (VPN)
+38. Core Knowledge - VPC Virtual Private Networks (VPN) - **done**
 39. Core Knowledge - VPC Direct Connect
 40. Core Knowledge - Direct Connect Routing and Link Aggregation Groups (LAGs)
 41. Hybrid Connectivity Use Cases / Scenarios
