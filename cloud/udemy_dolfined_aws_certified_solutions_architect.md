@@ -45,7 +45,7 @@
 39. Core Knowledge - VPC Direct Connect - **done**
 40. Core Knowledge - Direct Connect Routing and Link Aggregation Groups (LAGs) - **done**
 41. Hybrid Connectivity Use Cases / Scenarios - **done**
-42. Core Knowledge - AWS Direct Connect Gateway
+42. Core Knowledge - AWS Direct Connect Gateway - **done**
 43. Core Knowledge - AWS Direct Connect Limits
 44. AWS VPC - VPC Endpoints - Gateway Endpoint
 45. AWS VPC - Hands On Lab - VPC Gateway Endpoint
