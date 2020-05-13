@@ -43,7 +43,7 @@
 37. Core Knowledge - Transit Gateway - **done**
 38. Core Knowledge - VPC Virtual Private Networks (VPN) - **done**
 39. Core Knowledge - VPC Direct Connect - **done**
-40. Core Knowledge - Direct Connect Routing and Link Aggregation Groups (LAGs)
+40. Core Knowledge - Direct Connect Routing and Link Aggregation Groups (LAGs) - **done**
 41. Hybrid Connectivity Use Cases / Scenarios
 42. Core Knowledge - AWS Direct Connect Gateway
 43. Core Knowledge - AWS Direct Connect Limits
