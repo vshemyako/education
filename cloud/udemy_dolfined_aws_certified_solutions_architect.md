@@ -47,7 +47,7 @@
 41. Hybrid Connectivity Use Cases / Scenarios - **done**
 42. Core Knowledge - AWS Direct Connect Gateway - **done**
 43. Core Knowledge - AWS Direct Connect Limits - **done**
-44. AWS VPC - VPC Endpoints - Gateway Endpoint
+44. AWS VPC - VPC Endpoints - Gateway Endpoint - **done**
 45. AWS VPC - Hands On Lab - VPC Gateway Endpoint
 46. AWS VPC - VPC Interface Endpoint
 47. Hands On Labs - VPC Interface Endpoints
