@@ -58,7 +58,7 @@
 Quiz 1: VPC Quiz 1 - **done**
 Quiz 2: VPC Quiz 2 - **done**
 Quiz 3: VPC Quiz 3 - **done**
-Quiz 4: VPC Quiz 4
+Quiz 4: VPC Quiz 4 - **done**
 Quiz 5: VPC Quiz 5
 Quiz 6: VPC Quiz 6
 #### Section 6: Core Knowledge - Master VPC (& its Components) Scenario based Practice Questions
