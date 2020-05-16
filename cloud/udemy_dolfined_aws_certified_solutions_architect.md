@@ -51,8 +51,8 @@
 45. AWS VPC - Hands On Lab - VPC Gateway Endpoint - **done**
 46. AWS VPC - VPC Interface Endpoint - **done**
 47. Hands On Labs - VPC Interface Endpoints - **done**
-48. Egress Only Internet Gateway (for IPv6)
-49. Hands On Labs - Egress-only Internet Gateway
+48. Egress Only Internet Gateway (for IPv6) - **done**
+49. Hands On Labs - Egress-only Internet Gateway - **done**
 50. Core Knowledge - VPC Flow log and DHCP Option Sets
 51. Hands On Labs - VPC Flowlogs
 Quiz 1: VPC Quiz 1
