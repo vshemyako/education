@@ -55,7 +55,7 @@
 49. Hands On Labs - Egress-only Internet Gateway - **done**
 50. Core Knowledge - VPC Flow log and DHCP Option Sets - **done**
 51. Hands On Labs - VPC Flowlogs - **done**
-Quiz 1: VPC Quiz 1
+Quiz 1: VPC Quiz 1 - **done**
 Quiz 2: VPC Quiz 2
 Quiz 3: VPC Quiz 3
 Quiz 4: VPC Quiz 4
