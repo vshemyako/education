@@ -57,7 +57,7 @@
 51. Hands On Labs - VPC Flowlogs - **done**
 Quiz 1: VPC Quiz 1 - **done**
 Quiz 2: VPC Quiz 2 - **done**
-Quiz 3: VPC Quiz 3
+Quiz 3: VPC Quiz 3 - **done**
 Quiz 4: VPC Quiz 4
 Quiz 5: VPC Quiz 5
 Quiz 6: VPC Quiz 6
