@@ -62,6 +62,20 @@ Quiz 4: VPC Quiz 4 - **done**
 Quiz 5: VPC Quiz 5 - **done**
 Quiz 6: VPC Quiz 6 - **done**
 #### Section 6: Core Knowledge - Master VPC (& its Components) Scenario based Practice Questions
+52. Core Knowledge - AWS VPC Set of Questions #1
+53. Core Knowledge - AWS VPC Set of Questions #2
+54. Core Knowledge - AWS VPC Set of Questions #3
+55. Core Knowledge - AWS VPC Set of Questions #4
+56. Core Knowledge - AWS VPC Set of Questions #5
+57. Core Knowledge - AWS VPC Set of Questions #6
+58. Core Knowledge - AWS VPC Set of Questions #7
+59. Core Knowledge - AWS VPC Set of Questions #8
+60. Core Knowledge - AWS VPC Set of Questions #9
+61. Core Knowledge - AWS VPC Set of Questions #10
+62. Core Knowledge - AWS VPC Set of Questions #11
+63. Core Knowledge - AWS VPC Set of Questions #12
+64. Core Knowledge - AWS VPC Set of Questions #13
+65. Core Knowledge - AWS VPC Set of Questions #14
 #### Section 7: Core Knowledge - Master Elastic Compute Cloud (EC2) Exam Required Knowledge
 #### Section 8: Core Knowledge - Master AWS EC2 - Scenario based Practice Questions
 #### Section 9: Introduction to Encryption and AWS KMS
