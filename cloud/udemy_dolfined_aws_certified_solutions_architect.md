@@ -64,7 +64,7 @@ Quiz 6: VPC Quiz 6 - **done**
 #### Section 6: Core Knowledge - Master VPC (& its Components) Scenario based Practice Questions
 52. Core Knowledge - AWS VPC Set of Questions #1 - **done**
 53. Core Knowledge - AWS VPC Set of Questions #2 - **done**
-54. Core Knowledge - AWS VPC Set of Questions #3
+54. Core Knowledge - AWS VPC Set of Questions #3 - **done**
 55. Core Knowledge - AWS VPC Set of Questions #4
 56. Core Knowledge - AWS VPC Set of Questions #5
 57. Core Knowledge - AWS VPC Set of Questions #6
