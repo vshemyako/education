@@ -71,7 +71,7 @@ Quiz 6: VPC Quiz 6 - **done**
 59. Core Knowledge - AWS VPC Set of Questions #8 - **done**
 60. Core Knowledge - AWS VPC Set of Questions #9 - **done**
 61. Core Knowledge - AWS VPC Set of Questions #10 - **done**
-62. Core Knowledge - AWS VPC Set of Questions #11
+62. Core Knowledge - AWS VPC Set of Questions #11 - **done**
 63. Core Knowledge - AWS VPC Set of Questions #12
 64. Core Knowledge - AWS VPC Set of Questions #13
 65. Core Knowledge - AWS VPC Set of Questions #14
