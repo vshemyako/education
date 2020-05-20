@@ -72,7 +72,7 @@ Quiz 6: VPC Quiz 6 - **done**
 60. Core Knowledge - AWS VPC Set of Questions #9 - **done**
 61. Core Knowledge - AWS VPC Set of Questions #10 - **done**
 62. Core Knowledge - AWS VPC Set of Questions #11 - **done**
-63. Core Knowledge - AWS VPC Set of Questions #12
+63. Core Knowledge - AWS VPC Set of Questions #12 - **done**
 64. Core Knowledge - AWS VPC Set of Questions #13
 65. Core Knowledge - AWS VPC Set of Questions #14
 #### Section 7: Core Knowledge - Master Elastic Compute Cloud (EC2) Exam Required Knowledge
