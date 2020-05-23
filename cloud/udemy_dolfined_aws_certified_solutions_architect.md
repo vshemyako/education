@@ -77,6 +77,7 @@ Quiz 6: VPC Quiz 6 - **done**
 64. Core Knowledge - AWS VPC Set of Questions #14 - **done**
 #### Section 7: Core Knowledge - Master Elastic Compute Cloud (EC2) Exam Required Knowledge
 65. Core Knowledge - Elastic Block Store Types - **done**
+66. DEMO - EC2 LAB - Creating an EC2 instance - Part 1 - **done**
 #### Section 8: Core Knowledge - Master AWS EC2 - Scenario based Practice Questions
 #### Section 9: Introduction to Encryption and AWS KMS
 #### Section 10: Core Knowledge - Master AWS's Elastic Block Store (EBS) Exam Required Knowledge
