@@ -68,14 +68,15 @@ Quiz 6: VPC Quiz 6 - **done**
 55. Core Knowledge - AWS VPC Set of Questions #4 - **done**
 56. Core Knowledge - AWS VPC Set of Questions #5 - **done**
 57. Core Knowledge - AWS VPC Set of Questions #6 - **done**
-59. Core Knowledge - AWS VPC Set of Questions #8 - **done**
-60. Core Knowledge - AWS VPC Set of Questions #9 - **done**
-61. Core Knowledge - AWS VPC Set of Questions #10 - **done**
-62. Core Knowledge - AWS VPC Set of Questions #11 - **done**
-63. Core Knowledge - AWS VPC Set of Questions #12 - **done**
-64. Core Knowledge - AWS VPC Set of Questions #13 - **done**
-65. Core Knowledge - AWS VPC Set of Questions #14 - **done**
+58. Core Knowledge - AWS VPC Set of Questions #8 - **done**
+59. Core Knowledge - AWS VPC Set of Questions #9 - **done**
+60. Core Knowledge - AWS VPC Set of Questions #10 - **done**
+61. Core Knowledge - AWS VPC Set of Questions #11 - **done**
+62. Core Knowledge - AWS VPC Set of Questions #12 - **done**
+63. Core Knowledge - AWS VPC Set of Questions #13 - **done**
+64. Core Knowledge - AWS VPC Set of Questions #14 - **done**
 #### Section 7: Core Knowledge - Master Elastic Compute Cloud (EC2) Exam Required Knowledge
+65. Core Knowledge - Elastic Block Store Types - **done**
 #### Section 8: Core Knowledge - Master AWS EC2 - Scenario based Practice Questions
 #### Section 9: Introduction to Encryption and AWS KMS
 #### Section 10: Core Knowledge - Master AWS's Elastic Block Store (EBS) Exam Required Knowledge
