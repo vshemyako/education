@@ -81,6 +81,7 @@ Quiz 6: VPC Quiz 6 - **done**
 67. DEMO - EC2 LAB - Creating an EC2 instance - Part 2 - **done**
 68. DEMO - EC2 LAB - Creating an EC2 instance - Part 3 - **done**
 69. Hands On Labs - EC2 LAB - Encrypting the Root Volume of an EC2 instance - **done**
+70. Hands On Labs - Linux/Mac users - SSH to an EC2 instance - **done**
 #### Section 8: Core Knowledge - Master AWS EC2 - Scenario based Practice Questions
 #### Section 9: Introduction to Encryption and AWS KMS
 #### Section 10: Core Knowledge - Master AWS's Elastic Block Store (EBS) Exam Required Knowledge
