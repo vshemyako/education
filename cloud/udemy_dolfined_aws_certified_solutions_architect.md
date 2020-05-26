@@ -88,6 +88,7 @@ Quiz 6: VPC Quiz 6 - **done**
 74. EC2 Enhanced Networking and Placement Groups - **done**
 75. EC2 Placement Groups - **done**
 76. EC2 Status Checks and Monitoring - **done**
+77. EC2 Instance States - **done**
 #### Section 8: Core Knowledge - Master AWS EC2 - Scenario based Practice Questions
 #### Section 9: Introduction to Encryption and AWS KMS
 #### Section 10: Core Knowledge - Master AWS's Elastic Block Store (EBS) Exam Required Knowledge
