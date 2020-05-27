@@ -92,6 +92,7 @@ Quiz 6: VPC Quiz 6 - **done**
 78. EC2 Instance Termination and Termination Protection - **done**
 79. EC2 Instance Metadata and User Data - **done**
 80. Hands On Labs - EC2 Instance User Data - **done**
+81. Hands on Labs - EC2 instance metadata - **done**
 #### Section 8: Core Knowledge - Master AWS EC2 - Scenario based Practice Questions
 #### Section 9: Introduction to Encryption and AWS KMS
 #### Section 10: Core Knowledge - Master AWS's Elastic Block Store (EBS) Exam Required Knowledge
