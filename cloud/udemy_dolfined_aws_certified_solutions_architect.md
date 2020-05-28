@@ -94,7 +94,7 @@ Quiz 6: VPC Quiz 6 - **done**
 80. Hands On Labs - EC2 Instance User Data - **done**
 81. Hands on Labs - EC2 instance metadata - **done**
 82. Migration to/from AWS EC2 & VM Import/Export - **done**
-83. Bastion Hosts
+83. Bastion Hosts - **done**
 #### Section 8: Core Knowledge - Master AWS EC2 - Scenario based Practice Questions
 #### Section 9: Introduction to Encryption and AWS KMS
 #### Section 10: Core Knowledge - Master AWS's Elastic Block Store (EBS) Exam Required Knowledge
