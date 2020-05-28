@@ -99,6 +99,9 @@ Quiz 6: VPC Quiz 6 - **done**
 85. EC2 Instance Launch Modes (Purchase Options) Part 2 - **done**
 86. VPC and EC2 Instance Tenancy Attribute - **done**
 87. Elastic Compute Cloud - Elastic Network Interfaces (ENIs) - **done**
+88. Elastic Network Interface (ENI) - IP Addressing
+89. NAT instance Source/Destination Check - **done**
+90. Public IPv4 address auto assignment
 #### Section 8: Core Knowledge - Master AWS EC2 - Scenario based Practice Questions
 #### Section 9: Introduction to Encryption and AWS KMS
 #### Section 10: Core Knowledge - Master AWS's Elastic Block Store (EBS) Exam Required Knowledge
