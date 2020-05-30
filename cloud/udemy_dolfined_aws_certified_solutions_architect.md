@@ -104,6 +104,7 @@ Quiz 6: VPC Quiz 6 - **done**
 90. Public IPv4 address auto assignment - **done**
 91. DEMO - TCP/IP Packet Walkthrough - Deep Dive - **done**
 92. DEMO LAB - EC2 - VPC Combined Project Lab - Part 1 - **done**
+93. DEMO LAB - EC2 - VPC Combined Project Lab - Part 2 - **done**
 100. Troubleshooting EC2 - **done**
 #### Section 8: Core Knowledge - Master AWS EC2 - Scenario based Practice Questions
 #### Section 9: Introduction to Encryption and AWS KMS
