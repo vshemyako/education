@@ -103,11 +103,11 @@ Quiz 6: VPC Quiz 6 - **done**
 89. NAT instance Source/Destination Check - **done**
 90. Public IPv4 address auto assignment - **done**
 91. DEMO - TCP/IP Packet Walkthrough - Deep Dive - **done**
-92. DEMO LAB - EC2 - VPC Combined Project Lab - Part 1 - **done**
-93. DEMO LAB - EC2 - VPC Combined Project Lab - Part 2 - **done**
-94. DEMO LAB - EC2 - VPC Combined Project Lab - Part 3 - **done**
-95. DEMO LAB - EC2 - VPC Combined Project Lab - Part 4 - **done**
-96. DEMO LAB - EC2 - VPC Combined Project Lab - Part 5 - **done**
+92. DEMO LAB - EC2 - VPC Combined Project Lab - Part 1 - **done** - **reproduced**
+93. DEMO LAB - EC2 - VPC Combined Project Lab - Part 2 - **done** - **reproduced**
+94. DEMO LAB - EC2 - VPC Combined Project Lab - Part 3 - **done** - **reproduced**
+95. DEMO LAB - EC2 - VPC Combined Project Lab - Part 4 - **done** - **reproduced**
+96. DEMO LAB - EC2 - VPC Combined Project Lab - Part 5 - **done** - **reproduced**
 100. Troubleshooting EC2 - **done**
 #### Section 8: Core Knowledge - Master AWS EC2 - Scenario based Practice Questions
 #### Section 9: Introduction to Encryption and AWS KMS
