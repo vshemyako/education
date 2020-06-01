@@ -109,6 +109,7 @@ Quiz 6: VPC Quiz 6 - **done**
 95. DEMO LAB - EC2 - VPC Combined Project Lab - Part 4 - **done** - **reproduced**
 96. DEMO LAB - EC2 - VPC Combined Project Lab - Part 5 - **done** - **reproduced**
 97. DEMO - EC2 - NAT Instance Project - Part # 1 - **done**
+98. DEMO - EC2 Labs - NAT Instance Project - Part # 2 - **done**
 100. Troubleshooting EC2 - **done**
 #### Section 8: Core Knowledge - Master AWS EC2 - Scenario based Practice Questions
 #### Section 9: Introduction to Encryption and AWS KMS
