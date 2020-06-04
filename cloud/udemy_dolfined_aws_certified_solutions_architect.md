@@ -123,6 +123,7 @@ Quiz 9: EC2 Quiz 3 - 12 Questions - **done**
 142. Core Knowledge - Elastic Load Balancer - Introduction - **done**
 143. Core Knowledge - Elastic Load Balancer - How it works - **done**
 144. Core Knowledge - How ELB works - Continued - **done**
+145. Core Knowledge - How ELB works - Again ! - **done**
 #### Section 13: Core Knowledge - Master AWS ELB - Exam Scenario-based Question
 #### Section 14: AWS Auto Scaling - Master Auto Scaling Exam Required Knowledge 
 #### Section 15: Core Knowledge - Master Auto Scaling Scenario-based Practice Questions
