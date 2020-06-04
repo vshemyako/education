@@ -127,6 +127,7 @@ Quiz 9: EC2 Quiz 3 - 12 Questions - **done**
 146. Core Knowledge - ELB health checks - **done**
 147. Core Knowledge - ELB Cross Zone Load Balancing - **done**
 148. Core Knowledge - ELB Positioning - Internet-facing vs Internal ELB - **done**
+149. Core Knowledge - Refresher for TCP IP Packet flow - **done**
 #### Section 13: Core Knowledge - Master AWS ELB - Exam Scenario-based Question
 #### Section 14: AWS Auto Scaling - Master Auto Scaling Exam Required Knowledge 
 #### Section 15: Core Knowledge - Master Auto Scaling Scenario-based Practice Questions
