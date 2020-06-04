@@ -121,6 +121,7 @@ Quiz 9: EC2 Quiz 3 - 12 Questions - **done**
 #### Section 11: Core Knowledge - Master AWS EBS - Exam Scenario-based Question
 #### Section 12: Core Knowledge - Master Elastic Load Balancer (ELB) Exam Required Knowledge
 142. Core Knowledge - Elastic Load Balancer - Introduction - **done**
+143. Core Knowledge - Elastic Load Balancer - How it works - **done**
 #### Section 13: Core Knowledge - Master AWS ELB - Exam Scenario-based Question
 #### Section 14: AWS Auto Scaling - Master Auto Scaling Exam Required Knowledge 
 #### Section 15: Core Knowledge - Master Auto Scaling Scenario-based Practice Questions
