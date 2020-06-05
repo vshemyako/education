@@ -129,6 +129,7 @@ Quiz 9: EC2 Quiz 3 - 12 Questions - **done**
 148. Core Knowledge - ELB Positioning - Internet-facing vs Internal ELB - **done**
 149. Core Knowledge - Refresher for TCP IP Packet flow - **done**
 150. Core Knowledge - ELB - Security Group - **done**
+151. Core Knowledge - ELB - Network ACLs - **done**
 #### Section 13: Core Knowledge - Master AWS ELB - Exam Scenario-based Question
 #### Section 14: AWS Auto Scaling - Master Auto Scaling Exam Required Knowledge 
 #### Section 15: Core Knowledge - Master Auto Scaling Scenario-based Practice Questions
