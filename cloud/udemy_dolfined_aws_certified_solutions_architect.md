@@ -131,6 +131,7 @@ Quiz 9: EC2 Quiz 3 - 12 Questions - **done**
 150. Core Knowledge - ELB - Security Group - **done**
 151. Core Knowledge - ELB - Network ACLs - **done**
 152. Core Knowledge - ELB - Layer 4 TCP/SSL Listeners - **done**
+153. Core Knowledge - ELB - Layer 7 HTTP/HTTPS Listeners - **done**
 #### Section 13: Core Knowledge - Master AWS ELB - Exam Scenario-based Question
 #### Section 14: AWS Auto Scaling - Master Auto Scaling Exam Required Knowledge 
 #### Section 15: Core Knowledge - Master Auto Scaling Scenario-based Practice Questions
