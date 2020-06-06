@@ -135,6 +135,7 @@ Quiz 9: EC2 Quiz 3 - 12 Questions - **done**
 154. DEMO - ELB Service - Classical Load Balancer Overview and Lab Layout - Part 1 - **done**
 155. DEMO - ELB Service - Classical Load Balancer Overview and Lab Layout - Part 2 - **done**
 156. DEMO - ELB Service - Classical Load Balancer Overview and Lab Layout - Part 3 - **done**
+157. Core Knowledge - ELB & Sticky Sessions (Session Affinity) - **done**
 #### Section 13: Core Knowledge - Master AWS ELB - Exam Scenario-based Question
 #### Section 14: AWS Auto Scaling - Master Auto Scaling Exam Required Knowledge 
 #### Section 15: Core Knowledge - Master Auto Scaling Scenario-based Practice Questions
