@@ -144,6 +144,7 @@ Quiz 9: EC2 Quiz 3 - 12 Questions - **done**
 163. Testing you ELB scaling (or applications servers by ELB) - **done**
 Quiz 13: ELB Quiz 1 - 10 Questions - **done**
 Quiz 14: ELB Quiz 2 - 10 Questions - **done**
+Quiz 15: ELB Quiz 3 - 11 Questions - **done**
 #### Section 13: Core Knowledge - Master AWS ELB - Exam Scenario-based Question
 #### Section 14: AWS Auto Scaling - Master Auto Scaling Exam Required Knowledge 
 #### Section 15: Core Knowledge - Master Auto Scaling Scenario-based Practice Questions
