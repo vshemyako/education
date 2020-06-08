@@ -117,6 +117,9 @@ Quiz 8: EC2 Quiz 2 - 10 Questions - **done**
 Quiz 9: EC2 Quiz 3 - 12 Questions - **done**
 #### Section 8: Core Knowledge - Master AWS EC2 - Scenario based Practice Questions
 #### Section 9: Introduction to Encryption and AWS KMS
+114. Introduction to Encryption and Cloud HSM - **done**
+115. AWS Key Management Service (KMS) - Introduction
+116. AWS KMS - Customer Master Keys (CMK)
 #### Section 10: Core Knowledge - Master AWS's Elastic Block Store (EBS) Exam Required Knowledge
 #### Section 11: Core Knowledge - Master AWS EBS - Exam Scenario-based Question
 #### Section 12: Core Knowledge - Master Elastic Load Balancer (ELB) Exam Required Knowledge
