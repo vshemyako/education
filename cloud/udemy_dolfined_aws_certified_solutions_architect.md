@@ -116,6 +116,7 @@ Quiz 7: EC2 Quiz 1 - 10 Questions - **done**
 Quiz 8: EC2 Quiz 2 - 10 Questions - **done**
 Quiz 9: EC2 Quiz 3 - 12 Questions - **done**
 #### Section 8: Core Knowledge - Master AWS EC2 - Scenario based Practice Questions
+101. Core Knowledge - EC2 Exam Scenario-based Set of Questions #1 - **done**
 #### Section 9: Introduction to Encryption and AWS KMS
 114. Introduction to Encryption and Cloud HSM - **done**
 115. AWS Key Management Service (KMS) - Introduction - **done**
