@@ -1,6 +1,6 @@
 ### Course content
 1. What is the AWS CDK? - **done**
-2. Getting started
+2. Getting started - **done**
 3. Working with the AWS CDK
 4. Translating from TypeScript
 5. Concepts
