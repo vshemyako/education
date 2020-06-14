@@ -121,6 +121,7 @@ Quiz 9: EC2 Quiz 3 - 12 Questions - **done**
 103. Core Knowledge - EC2 Exam Scenario-based Set of Questions #3 - **done**
 104. Core Knowledge - EC2 Exam Scenario-based Set of Questions #4 - **done**
 105. Core Knowledge - EC2 Exam Scenario-based Set of Questions #5 - **done**
+106. Core Knowledge - AWS EC2 Exam Scenario-based Set of Questions #6 - **done**
 #### Section 9: Introduction to Encryption and AWS KMS
 114. Introduction to Encryption and Cloud HSM - **done**
 115. AWS Key Management Service (KMS) - Introduction - **done**
