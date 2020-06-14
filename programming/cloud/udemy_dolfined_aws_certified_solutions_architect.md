@@ -169,6 +169,7 @@ Quiz 15: ELB Quiz 3 - 11 Questions - **done**
 #### Section 29: AWS Services and Strategies for Deployment Management
 #### Section 30: Amazon Elastic Container Services (ECS)
 #### Section 31: Core Knowledge - Application Load Balancer
+413. Classic Load Balancer Refresher and Weaknesses - **done**
 #### Section 32: Amazon Network Load Balancer (NLB)
 #### Section 33: AWS Identity and Access Management ( IAM ) and AWS Directory Services
 #### Section 34: Amazon Data Migration Services and Hybrid Cloud
