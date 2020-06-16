@@ -134,6 +134,7 @@ Quiz 9: EC2 Quiz 3 - 12 Questions - **done**
 115. AWS Key Management Service (KMS) - Introduction - **done**
 116. AWS KMS - Customer Master Keys (CMK) - **done**
 #### Section 10: Core Knowledge - Master AWS's Elastic Block Store (EBS) Exam Required Knowledge
+117. EBS - Block Store Types and IOPS Performance - **done**
 #### Section 11: Core Knowledge - Master AWS EBS - Exam Scenario-based Question
 #### Section 12: Core Knowledge - Master Elastic Load Balancer (ELB) Exam Required Knowledge
 142. Core Knowledge - Elastic Load Balancer - Introduction - **done**
