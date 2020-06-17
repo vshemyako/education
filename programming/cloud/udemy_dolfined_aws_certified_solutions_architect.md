@@ -138,6 +138,7 @@ Quiz 9: EC2 Quiz 3 - 12 Questions - **done**
 118. EBS Snapshots - **done**
 119. EBS Snapshots - 2 - **done**
 120. Hands On Lab - EBS Volumes and Snapshots - **done**
+121. EBS Encryption 1 - **done**
 #### Section 11: Core Knowledge - Master AWS EBS - Exam Scenario-based Question
 #### Section 12: Core Knowledge - Master Elastic Load Balancer (ELB) Exam Required Knowledge
 142. Core Knowledge - Elastic Load Balancer - Introduction - **done**
