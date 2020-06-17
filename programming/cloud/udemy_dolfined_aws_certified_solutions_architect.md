@@ -136,6 +136,7 @@ Quiz 9: EC2 Quiz 3 - 12 Questions - **done**
 #### Section 10: Core Knowledge - Master AWS's Elastic Block Store (EBS) Exam Required Knowledge
 117. EBS - Block Store Types and IOPS Performance - **done**
 118. EBS Snapshots - **done**
+119. EBS Snapshots - 2 - **done**
 #### Section 11: Core Knowledge - Master AWS EBS - Exam Scenario-based Question
 #### Section 12: Core Knowledge - Master Elastic Load Balancer (ELB) Exam Required Knowledge
 142. Core Knowledge - Elastic Load Balancer - Introduction - **done**
