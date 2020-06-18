@@ -144,6 +144,7 @@ Quiz 9: EC2 Quiz 3 - 12 Questions - **done**
 124. EBS - Sharing EBS Snapshots - **done**
 125. EBS - Copying EBS snapshots - **done**
 126. Hands On Lab - EBS Encryption and Sharing Snapshots - **done**
+127. EBS - Creating and Registering AMIs from Block Store Volumes - **done**
 #### Section 11: Core Knowledge - Master AWS EBS - Exam Scenario-based Question
 #### Section 12: Core Knowledge - Master Elastic Load Balancer (ELB) Exam Required Knowledge
 142. Core Knowledge - Elastic Load Balancer - Introduction - **done**
