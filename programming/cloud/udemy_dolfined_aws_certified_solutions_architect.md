@@ -148,6 +148,7 @@ Quiz 9: EC2 Quiz 3 - 12 Questions - **done**
 128. EBS - Creating AMIs from EBS-Backed EC2 Instances - **done**
 129. Hands On Labs - EBS - Creating and Sharing AMIs - **done**
 130. Hands On Labs - EBS - Creating and Sharing AMIs - ENcryption Key permissions - **done**
+131. EBS Redundant Array of Independent Disks (RAID) and EBS volumes - **done**
 #### Section 11: Core Knowledge - Master AWS EBS - Exam Scenario-based Question
 #### Section 12: Core Knowledge - Master Elastic Load Balancer (ELB) Exam Required Knowledge
 142. Core Knowledge - Elastic Load Balancer - Introduction - **done**
