@@ -182,6 +182,7 @@ Quiz 15: ELB Quiz 3 - 11 Questions - **done**
 #### Section 13: Core Knowledge - Master AWS ELB - Exam Scenario-based Question
 #### Section 14: AWS Auto Scaling - Master Auto Scaling Exam Required Knowledge
 183. Auto Scaling Introduction - The problem statement - **done**
+184. Auto Scaling Components - **done**
 #### Section 15: Core Knowledge - Master Auto Scaling Scenario-based Practice Questions
 #### Section 16: Introduction to Databases
 #### Section 17: Relational Database Service (RDS)
