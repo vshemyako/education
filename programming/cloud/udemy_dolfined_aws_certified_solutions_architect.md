@@ -185,6 +185,7 @@ Quiz 15: ELB Quiz 3 - 11 Questions - **done**
 184. Auto Scaling Components - **done**
 185. Auto Scaling Features - **done**
 186. Auto Scaling Availability Zone Rebalance feature - **done**
+187. Adding/Detaching EC2 instances to/from Auto Scaling Groups - **done**
 #### Section 15: Core Knowledge - Master Auto Scaling Scenario-based Practice Questions
 #### Section 16: Introduction to Databases
 #### Section 17: Relational Database Service (RDS)
