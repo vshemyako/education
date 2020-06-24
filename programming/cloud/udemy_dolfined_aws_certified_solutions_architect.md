@@ -184,6 +184,7 @@ Quiz 15: ELB Quiz 3 - 11 Questions - **done**
 183. Auto Scaling Introduction - The problem statement - **done**
 184. Auto Scaling Components - **done**
 185. Auto Scaling Features - **done**
+186. Auto Scaling Availability Zone Rebalance feature - **done**
 #### Section 15: Core Knowledge - Master Auto Scaling Scenario-based Practice Questions
 #### Section 16: Introduction to Databases
 #### Section 17: Relational Database Service (RDS)
