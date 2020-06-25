@@ -188,6 +188,7 @@ Quiz 15: ELB Quiz 3 - 11 Questions - **done**
 187. Adding/Detaching EC2 instances to/from Auto Scaling Groups - **done**
 188. Auto Scaling and Elastic Load Balancing Service - **done**
 189. Auto Scaling health checks - **done**
+190. Auto Scaling health checks - SNS Notifications & Merging Auto Scaling groups - **done**
 #### Section 15: Core Knowledge - Master Auto Scaling Scenario-based Practice Questions
 #### Section 16: Introduction to Databases
 #### Section 17: Relational Database Service (RDS)
