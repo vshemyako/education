@@ -191,6 +191,7 @@ Quiz 15: ELB Quiz 3 - 11 Questions - **done**
 190. Auto Scaling health checks - SNS Notifications & Merging Auto Scaling groups - **done**
 191. Hands On Lab (HOL) - Auto Scaling - Part 1 - **done**
 192. Hands On Lab (HOL) - Auto Scaling - Part 2 - **done**
+193. Auto Scaling policies/plans - Part1 - Scheduled Scaling - **done**
 #### Section 15: Core Knowledge - Master Auto Scaling Scenario-based Practice Questions
 #### Section 16: Introduction to Databases
 #### Section 17: Relational Database Service (RDS)
