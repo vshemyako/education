@@ -193,6 +193,7 @@ Quiz 15: ELB Quiz 3 - 11 Questions - **done**
 192. Hands On Lab (HOL) - Auto Scaling - Part 2 - **done**
 193. Auto Scaling policies/plans - Part1 - Scheduled Scaling - **done**
 194. Auto Scaling policies/plans - Part2 - On-Demand Simple Scaling - **done**
+195. Auto Scaling policies/plans - Part3 - On-Demand Step Scaling - **done**
 #### Section 15: Core Knowledge - Master Auto Scaling Scenario-based Practice Questions
 #### Section 16: Introduction to Databases
 #### Section 17: Relational Database Service (RDS)
