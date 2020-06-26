@@ -196,6 +196,7 @@ Quiz 15: ELB Quiz 3 - 11 Questions - **done**
 195. Auto Scaling policies/plans - Part3 - On-Demand Step Scaling - **done**
 196. Auto Scaling policies/plans - Part4 - Target Tracking Scaling - **done**
 197. Auto Scaling - Monitoring - **done**
+Quiz 16: Auto Scaling Quiz 1 - 11 Questions - **done**
 #### Section 15: Core Knowledge - Master Auto Scaling Scenario-based Practice Questions
 #### Section 16: Introduction to Databases
 #### Section 17: Relational Database Service (RDS)
