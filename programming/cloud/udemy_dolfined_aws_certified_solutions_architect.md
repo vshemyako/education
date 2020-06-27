@@ -206,6 +206,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 #### Section 17: Relational Database Service (RDS)
 208. Core Knowledge - RDS - Introduction lecture to the AWS RDS Service - **done**
 209. Core Knowledge - RDS - Multi-AZ option - **done**
+210. Core Knowledge - RDS - Subnet Groups - **done**
 #### Section 18: Amazon Aurora
 #### Section 19: Core Knowledge - Master AWS RDS Scenario-based Practice Questions
 #### Section 20: AWS Auditing, Monitoring, and Notification Services
