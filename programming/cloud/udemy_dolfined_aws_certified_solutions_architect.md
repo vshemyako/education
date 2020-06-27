@@ -200,6 +200,7 @@ Quiz 16: Auto Scaling Quiz 1 - 11 Questions - **done**
 Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 #### Section 15: Core Knowledge - Master Auto Scaling Scenario-based Practice Questions
 #### Section 16: Introduction to Databases
+205. Introduction to Relational Databases - **done**
 #### Section 17: Relational Database Service (RDS)
 #### Section 18: Amazon Aurora
 #### Section 19: Core Knowledge - Master AWS RDS Scenario-based Practice Questions
