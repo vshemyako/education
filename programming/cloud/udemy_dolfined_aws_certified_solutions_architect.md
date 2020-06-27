@@ -202,6 +202,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 #### Section 16: Introduction to Databases
 205. Introduction to Relational Databases - **done**
 206. Introduction to Non-Relational Databases (No-SQL) - **done**
+207. Core Knowledge - RDS - Types and Examples of Non-Relational Databases - **done**
 #### Section 17: Relational Database Service (RDS)
 #### Section 18: Amazon Aurora
 #### Section 19: Core Knowledge - Master AWS RDS Scenario-based Practice Questions
