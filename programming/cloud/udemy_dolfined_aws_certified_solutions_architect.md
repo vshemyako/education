@@ -210,6 +210,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 211. Hands On Lab - Creating an RDS instance - **done**
 212. Core Knowledge - RDS - Automatic Backups - **done**
 213. Core Knowledge - RDS - Manual Backups (Snapshots) - **done**
+214. Core Knowledge - RDS - Multi-AZ part II - **done**
 #### Section 18: Amazon Aurora
 #### Section 19: Core Knowledge - Master AWS RDS Scenario-based Practice Questions
 #### Section 20: AWS Auditing, Monitoring, and Notification Services
