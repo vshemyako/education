@@ -212,6 +212,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 213. Core Knowledge - RDS - Manual Backups (Snapshots) - **done**
 214. Core Knowledge - RDS - Multi-AZ part II - **done**
 214. Core Knowledge - RDS instance security and encryption - **done**
+215. Core Knowledge - RDS - Read Replicas of RDS instances - **done**
 #### Section 18: Amazon Aurora
 #### Section 19: Core Knowledge - Master AWS RDS Scenario-based Practice Questions
 #### Section 20: AWS Auditing, Monitoring, and Notification Services
