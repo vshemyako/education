@@ -215,6 +215,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 215. Core Knowledge - RDS - Read Replicas of RDS instances - **done**
 216. Hands On Labs - RDS Instance Actions, Snapshots and Read Replicas - **done**
 217. Core Knowledge - RDS - Billing and Reserved DB instances - **done**
+218. Core Knowledge - RDS - Scaling - **done**
 #### Section 18: Amazon Aurora
 #### Section 19: Core Knowledge - Master AWS RDS Scenario-based Practice Questions
 #### Section 20: AWS Auditing, Monitoring, and Notification Services
