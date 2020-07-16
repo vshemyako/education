@@ -236,3 +236,4 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 #### Section 34: Amazon Data Migration Services and Hybrid Cloud
 #### Section 35: Misc Services
 #### Section 36: Wrap Up
+489. Exam Day - Strategy and Important advice - **done**
