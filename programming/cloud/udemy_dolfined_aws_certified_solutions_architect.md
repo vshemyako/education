@@ -237,3 +237,4 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 #### Section 35: Misc Services
 #### Section 36: Wrap Up
 489. Exam Day - Strategy and Important advice - **done**
+490. Requesting 30 Minutes additional Exam time for Non Native English Speakers - **done**
