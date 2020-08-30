@@ -217,7 +217,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 217. Core Knowledge - RDS - Billing and Reserved DB instances - **done**
 218. Core Knowledge - RDS - Scaling - **done**
 #### Section 18: Amazon Aurora
-219. Amazon Aurora - Introduction and Aurora Cluster Architecture - **done**
+219. Amazon Aurora - Introduction and Aurora Cluster Architecture
 #### Section 19: Core Knowledge - Master AWS RDS Scenario-based Practice Questions
 #### Section 20: AWS Auditing, Monitoring, and Notification Services
 #### Section 21: Core Knowledge - Master Simple Storage Service (S3) Exam Required Knowledge
