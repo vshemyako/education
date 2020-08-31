@@ -228,6 +228,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 228. RDS Exam Scenario-based Set of Questions #2 - **done**
 229. RDS Exam Scenario-based Set of Questions #3 - **done**
 230. RDS Exam Scenario-based Set of Questions #4 - **done**
+231. RDS Exam Scenario-based Set of Questions #5 - **done**
 #### Section 19: Core Knowledge - Master AWS RDS Scenario-based Practice Questions
 #### Section 20: AWS Auditing, Monitoring, and Notification Services
 #### Section 21: Core Knowledge - Master Simple Storage Service (S3) Exam Required Knowledge
