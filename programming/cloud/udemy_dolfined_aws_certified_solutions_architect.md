@@ -224,6 +224,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 224. Hands On Labs - Create an Amazon Aurora DB Cluster - **done**
 225. Amazon Aurora Replication, Automated backup and Snapshots, Backtrack feature - **done**
 226. Amazon Aurora Serverless - **done**
+#### Section 19: Core Knowledge - Master AWS RDS Scenario-based Practice Questions
 227. RDS Exam Scenario-based Set of Questions #1 - **done**
 228. RDS Exam Scenario-based Set of Questions #2 - **done**
 229. RDS Exam Scenario-based Set of Questions #3 - **done**
@@ -231,7 +232,6 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 231. RDS Exam Scenario-based Set of Questions #5 - **done**
 232. RDS Exam Scenario-based Set of Questions #6 - **done**
 233. Core Knowledge - AWS RDS Exam Scenario-based Set of Questions #7 - **done**
-#### Section 19: Core Knowledge - Master AWS RDS Scenario-based Practice Questions
 #### Section 20: AWS Auditing, Monitoring, and Notification Services
 #### Section 21: Core Knowledge - Master Simple Storage Service (S3) Exam Required Knowledge
 #### Section 22: Core Knowledge - Master AWS S3 Scenario-based Practice Questions
