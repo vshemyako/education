@@ -233,6 +233,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 232. RDS Exam Scenario-based Set of Questions #6 - **done**
 233. Core Knowledge - AWS RDS Exam Scenario-based Set of Questions #7 - **done**
 #### Section 20: AWS Auditing, Monitoring, and Notification Services
+234. Core Knowledge - AWS Simple Notification Service (SNS) - **done**
 #### Section 21: Core Knowledge - Master Simple Storage Service (S3) Exam Required Knowledge
 #### Section 22: Core Knowledge - Master AWS S3 Scenario-based Practice Questions
 #### Section 23: File System options - EFS and FSx
