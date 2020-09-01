@@ -237,6 +237,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 235. AWS Simple Notification Service - Reliability & Security - **done**
 236. Hands On Labs - Simple Notification Service (SNS) - **done**
 237. Introduction to AWS CloudTrail - **done**
+238. CloudTrtail Log File Integrity Validation - **done**
 #### Section 21: Core Knowledge - Master Simple Storage Service (S3) Exam Required Knowledge
 #### Section 22: Core Knowledge - Master AWS S3 Scenario-based Practice Questions
 #### Section 23: File System options - EFS and FSx
