@@ -249,6 +249,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 247. CloudWatch Events - **done**
 248. Hands On Labs - CloudWatch Events - **done**
 #### Section 21: Core Knowledge - Master Simple Storage Service (S3) Exam Required Knowledge
+249. Amazon S3 - Introduction to Object Storage - **done**
 #### Section 22: Core Knowledge - Master AWS S3 Scenario-based Practice Questions
 #### Section 23: File System options - EFS and FSx
 #### Section 24: Amazon Route 53 - AWS's Domain Name System (DNS) Service
