@@ -243,6 +243,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 241. Amazon CloudWatch Alarms - **done**
 242. Hands On Labs - CloudWatch Alarms - **done**
 243. CloudWatch Logs - Introduction and Concepts - **done**
+244. CloudWatch Logs Insights, CW and EC2, CloudTrail, S3 and ElasticSearch - **done**
 #### Section 21: Core Knowledge - Master Simple Storage Service (S3) Exam Required Knowledge
 #### Section 22: Core Knowledge - Master AWS S3 Scenario-based Practice Questions
 #### Section 23: File System options - EFS and FSx
