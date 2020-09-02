@@ -246,6 +246,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 244. CloudWatch Logs Insights, CW and EC2, CloudTrail, S3 and ElasticSearch - **done**
 245. Hands On Labs - CloudWatch Logs with VPC FlowLogs and CloudWatch Alarms - **done**
 246. AWS CloudWatch Logs - CW Agent, Real Time Processing, and Cross Account Logging - **done**
+247. CloudWatch Events - **done**
 #### Section 21: Core Knowledge - Master Simple Storage Service (S3) Exam Required Knowledge
 #### Section 22: Core Knowledge - Master AWS S3 Scenario-based Practice Questions
 #### Section 23: File System options - EFS and FSx
