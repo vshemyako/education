@@ -253,6 +253,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 250. Amazon S3 - Data Consistency models in distributed storage systems - **done**
 251. Amazon S3 - AWS S3 Buckets - 1 - **done**
 252. Amazon S3 - Objects - **done**
+253. Amazon S3 - Buckets - 2 - **done**
 #### Section 22: Core Knowledge - Master AWS S3 Scenario-based Practice Questions
 #### Section 23: File System options - EFS and FSx
 #### Section 24: Amazon Route 53 - AWS's Domain Name System (DNS) Service
