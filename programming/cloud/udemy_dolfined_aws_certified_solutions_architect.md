@@ -260,6 +260,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 257. Amazon S3 - Managing Access and Access Policies - **done**
 258. Amazon S3 Access Policy types - **done**
 259. Amazon S3 - Understanding Bucket and Object ACLs - Closer Look - **done**
+260. Amazon S3 - Copying / Uploading S3 Objects - **done**
 #### Section 22: Core Knowledge - Master AWS S3 Scenario-based Practice Questions
 #### Section 23: File System options - EFS and FSx
 #### Section 24: Amazon Route 53 - AWS's Domain Name System (DNS) Service
