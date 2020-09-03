@@ -255,6 +255,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 252. Amazon S3 - Objects - **done**
 253. Amazon S3 - Buckets - 2 - **done**
 254. Hands On Labs - Creating a S3 bucket and uploading Objects - **done**
+255. Amazon S3 - Bucket Versioning and MFA Delete - **done**
 #### Section 22: Core Knowledge - Master AWS S3 Scenario-based Practice Questions
 #### Section 23: File System options - EFS and FSx
 #### Section 24: Amazon Route 53 - AWS's Domain Name System (DNS) Service
