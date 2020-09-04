@@ -263,6 +263,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 260. Amazon S3 - Copying / Uploading S3 Objects - **done**
 261. S3 Storage Classes - Part 1 - **done**
 262. S3 Storage Classes - Part 2 - **done**
+263. Amazon Glacier - Archive Retrieval in Glacier - **done**
 #### Section 22: Core Knowledge - Master AWS S3 Scenario-based Practice Questions
 #### Section 23: File System options - EFS and FSx
 #### Section 24: Amazon Route 53 - AWS's Domain Name System (DNS) Service
