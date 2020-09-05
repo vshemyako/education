@@ -272,6 +272,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 269. Amazon S3 - When to use Access Control Lists with Buckets & Object - **done**
 270. Amazon S3 - When to use Bucket and User Policies - **done**
 271. Amazon S3 - Static Website Hosting in an S3 Bucket - **done**
+272. Hands On Labs - S3 Static Website Hosting - **done**
 273. Amazon S3 - Pre-Signed URLs - **done**
 #### Section 22: Core Knowledge - Master AWS S3 Scenario-based Practice Questions
 #### Section 23: File System options - EFS and FSx
