@@ -274,6 +274,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 271. Amazon S3 - Static Website Hosting in an S3 Bucket - **done**
 272. Hands On Labs - S3 Static Website Hosting - **done**
 273. Amazon S3 - Pre-Signed URLs - **done**
+274. Amazon S3 - Cross Region Replication (CRR) 1 - **done**
 #### Section 22: Core Knowledge - Master AWS S3 Scenario-based Practice Questions
 #### Section 23: File System options - EFS and FSx
 #### Section 24: Amazon Route 53 - AWS's Domain Name System (DNS) Service
