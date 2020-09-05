@@ -269,6 +269,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 266. Amazon S3 - Server Side Encryption (SSE) - **done**
 267. Amazon S3 Server Side Encryption - Detailed - **done**
 268. Hands On Labs - S3 Server Side Encryption - **done**
+269. Amazon S3 - When to use Access Control Lists with Buckets & Object - **done**
 #### Section 22: Core Knowledge - Master AWS S3 Scenario-based Practice Questions
 #### Section 23: File System options - EFS and FSx
 #### Section 24: Amazon Route 53 - AWS's Domain Name System (DNS) Service
