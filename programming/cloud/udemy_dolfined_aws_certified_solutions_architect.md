@@ -267,7 +267,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 264. Amazon S3 Bucket LifeCycle Policies - **done**
 265. Hands On Labs - S3 Lifecycle Policies/Rules - **done**
 266. Amazon S3 - Server Side Encryption (SSE) - **done**
-
+267. Amazon S3 Server Side Encryption - Detailed - **done**
 #### Section 22: Core Knowledge - Master AWS S3 Scenario-based Practice Questions
 #### Section 23: File System options - EFS and FSx
 #### Section 24: Amazon Route 53 - AWS's Domain Name System (DNS) Service
