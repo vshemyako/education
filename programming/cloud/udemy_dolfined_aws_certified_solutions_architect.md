@@ -276,6 +276,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 273. Amazon S3 - Pre-Signed URLs - **done**
 274. Amazon S3 - Cross Region Replication (CRR) 1 - **done**
 275. Amazon S3 - Cross Region Replication 2 - **done**
+276. S3 Same Region Replication - SRR - **done**
 #### Section 22: Core Knowledge - Master AWS S3 Scenario-based Practice Questions
 #### Section 23: File System options - EFS and FSx
 #### Section 24: Amazon Route 53 - AWS's Domain Name System (DNS) Service
