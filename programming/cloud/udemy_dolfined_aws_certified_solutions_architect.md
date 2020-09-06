@@ -279,6 +279,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 276. S3 Same Region Replication - SRR - **done**
 277. Hands On Labs - S3 - SRR and CRR - **done**
 278. Amazon S3 - Cross Origin Resource Sharing (CORS) - **done**
+279. Core Knowledge - S3 - Transfer Acceleration - **done**
 #### Section 22: Core Knowledge - Master AWS S3 Scenario-based Practice Questions
 #### Section 23: File System options - EFS and FSx
 #### Section 24: Amazon Route 53 - AWS's Domain Name System (DNS) Service
