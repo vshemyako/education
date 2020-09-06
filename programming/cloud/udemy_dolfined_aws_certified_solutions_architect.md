@@ -288,6 +288,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 Quiz 21: S3 Quiz 1 - 9 Questions - **done**
 Quiz 22: S3 Quiz 2 - 9 Questions - **done**
 #### Section 22: Core Knowledge - Master AWS S3 Scenario-based Practice Questions
+285. Core Knowledge - AWS S3/Glacier Exam Scenario-based Set of Questions #1 - **done**
 #### Section 23: File System options - EFS and FSx
 #### Section 24: Amazon Route 53 - AWS's Domain Name System (DNS) Service
 #### Section 25: Core Knowledge - AWS CloudFront
