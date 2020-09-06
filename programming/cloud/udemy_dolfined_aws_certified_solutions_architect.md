@@ -286,6 +286,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 283. Core Knowledge - S3 - Notification and S3 Monitoring - **done**
 284. Hands On Labs - Installing AWS CLI on Windows, MacOS, and Linux - **done**
 Quiz 21: S3 Quiz 1 - 9 Questions - **done**
+Quiz 22: S3 Quiz 2 - 9 Questions - **done**
 #### Section 22: Core Knowledge - Master AWS S3 Scenario-based Practice Questions
 #### Section 23: File System options - EFS and FSx
 #### Section 24: Amazon Route 53 - AWS's Domain Name System (DNS) Service
