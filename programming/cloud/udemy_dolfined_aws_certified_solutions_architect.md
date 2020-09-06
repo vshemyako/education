@@ -282,6 +282,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 279. Core Knowledge - S3 - Transfer Acceleration - **done**
 280. Amazon S3 Performance considerations and best practices - **done**
 281. Amazon S3 and Glacier SELECT - **done**
+282. Core Knowledge - S3 - Billing - **done**
 #### Section 22: Core Knowledge - Master AWS S3 Scenario-based Practice Questions
 #### Section 23: File System options - EFS and FSx
 #### Section 24: Amazon Route 53 - AWS's Domain Name System (DNS) Service
