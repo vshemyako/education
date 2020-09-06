@@ -216,6 +216,7 @@ Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 216. Hands On Labs - RDS Instance Actions, Snapshots and Read Replicas - **done**
 217. Core Knowledge - RDS - Billing and Reserved DB instances - **done**
 218. Core Knowledge - RDS - Scaling - **done**
+Quiz 18: RDS Quiz 1 - 12 Questions - **done**
 #### Section 18: Amazon Aurora
 220. Amazon Aurora - Introduction and Aurora Cluster Architecture - **done**
 221. Amazon Aurora - End Points - **done**
