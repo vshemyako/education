@@ -290,6 +290,7 @@ Quiz 22: S3 Quiz 2 - 9 Questions - **done**
 #### Section 22: Core Knowledge - Master AWS S3 Scenario-based Practice Questions
 285. Core Knowledge - AWS S3/Glacier Exam Scenario-based Set of Questions #1 - **done**
 286. Core Knowledge - AWS S3/Glacier Exam Scenario-based Set of Questions #2 - **done**
+287. Core Knowledge - AWS S3/Glacier Exam Scenario-based Set of Questions #3 - **done**
 #### Section 23: File System options - EFS and FSx
 #### Section 24: Amazon Route 53 - AWS's Domain Name System (DNS) Service
 #### Section 25: Core Knowledge - AWS CloudFront
