@@ -162,6 +162,7 @@ Quiz 12: EBS Quiz 3 - 10 Questions - **done**
 138. Core Knowledge - AWS EBS Exam Scenario-based Set of Questions #7 - **done**
 139. Core Knowledge - AWS EBS Exam Scenario-based Set of Questions #8 - **done**
 140. Core Knowledge - AWS EBS Exam Scenario-based Set of Questions #9 - **done**
+141. Core Knowledge - AWS EBS Exam Scenario-based Set of Questions #10 - **done**
 #### Section 12: Core Knowledge - Master Elastic Load Balancer (ELB) Exam Required Knowledge
 142. Core Knowledge - Elastic Load Balancer - Introduction - **done**
 143. Core Knowledge - Elastic Load Balancer - How it works - **done**
