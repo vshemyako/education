@@ -203,6 +203,7 @@ Quiz 15: ELB Quiz 3 - 11 Questions - **done**
 174. Core Knowledge - AWS ELB Exam Scenario-based Set of Questions #11 - **done**
 175. Core Knowledge - AWS ELB Exam Scenario-based Set of Questions #12 - **done**
 176. Core Knowledge - AWS ELB Exam Scenario-based Set of Questions #13 - **done**
+177. Core Knowledge - AWS ELB Exam Scenario-based Set of Questions #14 - **done**
 #### Section 14: AWS Auto Scaling - Master Auto Scaling Exam Required Knowledge
 183. Auto Scaling Introduction - The problem statement - **done**
 184. Auto Scaling Components - **done**
