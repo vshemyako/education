@@ -333,6 +333,7 @@ Quiz 22: S3 Quiz 2 - 9 Questions - **done**
 294. Amazon FSx - Data Protection, Backup/Restore, Access, Monitoring and Security - **done**
 295. Hands On Labs - Amazon FSx for Windows File Server - **done**
 296. Amazon FSx for Lustre - **done**
+297. Amazon EFS vs FSx for Windows vs FSx for Lustre - **done**
 #### Section 24: Amazon Route 53 - AWS's Domain Name System (DNS) Service
 #### Section 25: Core Knowledge - AWS CloudFront
 #### Section 26: Messaging and Integration
