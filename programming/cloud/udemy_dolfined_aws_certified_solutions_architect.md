@@ -328,6 +328,7 @@ Quiz 22: S3 Quiz 2 - 9 Questions - **done**
 289. AWS Elastic File System (EFS) - Introduction to the Service and Mount Targets - **done**
 290. AWS EFS - Use Cases, Use in On Premise Servers, Storage Classes, Pricing - **done**
 291. Hands On Labs - EFS - **done**
+292. AWS EFS - Data Encryption, EFS Data backup, EFS and AWS Datasync, Monitoring EFS - **done**
 #### Section 24: Amazon Route 53 - AWS's Domain Name System (DNS) Service
 #### Section 25: Core Knowledge - AWS CloudFront
 #### Section 26: Messaging and Integration
