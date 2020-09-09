@@ -326,6 +326,7 @@ Quiz 22: S3 Quiz 2 - 9 Questions - **done**
 288. Core Knowledge - AWS S3/Glacier Exam Scenario-based Set of Questions #4 - **done**
 #### Section 23: File System options - EFS and FSx
 289. AWS Elastic File System (EFS) - Introduction to the Service and Mount Targets - **done**
+290. AWS EFS - Use Cases, Use in On Premise Servers, Storage Classes, Pricing - **done**
 #### Section 24: Amazon Route 53 - AWS's Domain Name System (DNS) Service
 #### Section 25: Core Knowledge - AWS CloudFront
 #### Section 26: Messaging and Integration
