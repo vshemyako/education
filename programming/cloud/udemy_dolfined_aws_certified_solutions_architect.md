@@ -227,6 +227,7 @@ Quiz 15: ELB Quiz 3 - 11 Questions - **done**
 197. Auto Scaling - Monitoring - **done**
 Quiz 16: Auto Scaling Quiz 1 - 11 Questions - **done**
 198. Core Knowledge - AWS Auto Scaling Exam Scenario-based Set of Questions #1 - **done**
+199. Core Knowledge - AWS Auto Scaling Exam Scenario-based Set of Questions #2 - **done**
 Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 #### Section 15: Core Knowledge - Master Auto Scaling Scenario-based Practice Questions
 #### Section 16: Introduction to Databases
