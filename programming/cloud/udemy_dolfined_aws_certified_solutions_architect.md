@@ -230,6 +230,7 @@ Quiz 16: Auto Scaling Quiz 1 - 11 Questions - **done**
 199. Core Knowledge - AWS Auto Scaling Exam Scenario-based Set of Questions #2 - **done**
 200. Core Knowledge - AWS Auto Scaling Exam Scenario-based Set of Questions #3 - **done**
 201. Core Knowledge - AWS Auto Scaling Exam Scenario-based Set of Questions #4 - **done**
+202. Core Knowledge - AWS Auto Scaling Exam Scenario-based Set of Questions #5 - **done**
 Quiz 17: Auto Scaling Quiz 2 - 11 Questions - **done**
 #### Section 15: Core Knowledge - Master Auto Scaling Scenario-based Practice Questions
 #### Section 16: Introduction to Databases
