@@ -347,6 +347,7 @@ Quiz 22: S3 Quiz 2 - 9 Questions - **done**
 300. Amazon Route 53 - Registering Domains with Route 53 - **done**
 301. Amazon Route 53 - Steps to configure Route 53 - **done**
 302. Hands On Labs - Registering a Domain Name with Route 53 - **done**
+303. Amazon Route 53 - Hosted Zones - **done**
 #### Section 25: Core Knowledge - AWS CloudFront
 #### Section 26: Messaging and Integration
 #### Section 27: Amazon Serverless Services
