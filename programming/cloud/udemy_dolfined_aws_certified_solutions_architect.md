@@ -352,6 +352,7 @@ Quiz 22: S3 Quiz 2 - 9 Questions - **done**
 305. Hands On Labs - Creating/testing the Lab setup and Route 53 Simple Routing - **done**
 306. Amazon Route 53 - Supported DNS Record Types - **done**
 307. Amazon Route 53 - Alias or No Alias - CNAME vs Alias records - **done**
+308. Hands On Labs - Route 53 Alias Records - **done**
 #### Section 25: Core Knowledge - AWS CloudFront
 #### Section 26: Messaging and Integration
 #### Section 27: Amazon Serverless Services
