@@ -344,6 +344,7 @@ Quiz 22: S3 Quiz 2 - 9 Questions - **done**
 298. Hands On Labs - Amazon FSx for Lustre - **done**
 #### Section 24: Amazon Route 53 - AWS's Domain Name System (DNS) Service
 299. Amazon Route 53 - Introduction to DNS System and DNS Hierarchy - **done**
+300. Amazon Route 53 - Registering Domains with Route 53 - **done**
 #### Section 25: Core Knowledge - AWS CloudFront
 #### Section 26: Messaging and Integration
 #### Section 27: Amazon Serverless Services
