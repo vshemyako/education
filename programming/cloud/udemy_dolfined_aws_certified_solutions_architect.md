@@ -354,6 +354,7 @@ Quiz 22: S3 Quiz 2 - 9 Questions - **done**
 307. Amazon Route 53 - Alias or No Alias - CNAME vs Alias records - **done**
 308. Hands On Labs - Route 53 Alias Records - **done**
 309. Amazon Route 53 - Health Checks - **done**
+310. Amazon Route 53 - Routing Policies - Failover & Geolocation Routing - **done**
 #### Section 25: Core Knowledge - AWS CloudFront
 #### Section 26: Messaging and Integration
 #### Section 27: Amazon Serverless Services
