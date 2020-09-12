@@ -357,6 +357,7 @@ Quiz 22: S3 Quiz 2 - 9 Questions - **done**
 310. Amazon Route 53 - Routing Policies - Failover & Geolocation Routing - **done**
 311. Hands On Labs - Route 53 Health Checks and Failover Routing - **done**
 312. Hands On Labs - Route 53 Geolocation (Geo) Routing - **done**
+313. Amazon Route 53 - Latency and Weighted Routing Policies - **done**
 319. Amazon Route 53 - Pricing - **done**
 #### Section 25: Core Knowledge - AWS CloudFront
 #### Section 26: Messaging and Integration
