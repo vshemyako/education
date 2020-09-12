@@ -359,6 +359,7 @@ Quiz 22: S3 Quiz 2 - 9 Questions - **done**
 312. Hands On Labs - Route 53 Geolocation (Geo) Routing - **done**
 313. Amazon Route 53 - Latency and Weighted Routing Policies - **done**
 314. Hands On Labs - Route 53 Latency Routing - **done**
+315. Hands On Labs - Route 53 Weighted Routing - **done**
 319. Amazon Route 53 - Pricing - **done**
 #### Section 25: Core Knowledge - AWS CloudFront
 #### Section 26: Messaging and Integration
