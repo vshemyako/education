@@ -380,7 +380,7 @@ Quiz 23: AWS ROUTE 53 - Quiz 1 - 8 Questions - **done**
 473. AWS Organizations - **done**
 474. AWS Organizations - Components - **done**
 475. AWS Organizations - Features - **done**
-476. AWS Glue - What is it, how it works, and its components - **done**
+476. AWS Glue - What is it, how it works, and its components
 #### Section 36: Wrap Up
 489. Exam Day - Strategy and Important advice - **done**
 490. Requesting 30 Minutes additional Exam time for Non Native English Speakers - **done**
