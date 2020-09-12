@@ -362,6 +362,7 @@ Quiz 22: S3 Quiz 2 - 9 Questions - **done**
 315. Hands On Labs - Route 53 Weighted Routing - **done**
 316. Hands On Lab - Amazon Route 53 MultiValue Answer - **done**
 317. Amazon Route 53 Resolver - **done**
+318. Hands on Labs - Route 53 Resolver - **done**
 319. Amazon Route 53 - Pricing - **done**
 #### Section 25: Core Knowledge - AWS CloudFront
 #### Section 26: Messaging and Integration
