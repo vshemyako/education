@@ -370,6 +370,7 @@ Quiz 23: AWS ROUTE 53 - Quiz 1 - 8 Questions - **done**
 #### Section 27: Amazon Serverless Services
 #### Section 28: AWS Caching, Big Data, Data Streaming, Analytics, and IoT Services
 #### Section 29: AWS Services and Strategies for Deployment Management
+396. Amazon CloudFormation - **done**
 #### Section 30: Amazon Elastic Container Services (ECS)
 #### Section 31: Core Knowledge - Application Load Balancer
 413. Classic Load Balancer Refresher and Weaknesses - **done**
