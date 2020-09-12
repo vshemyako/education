@@ -373,6 +373,7 @@ Quiz 23: AWS ROUTE 53 - Quiz 1 - 8 Questions - **done**
 396. Amazon CloudFormation - **done**
 397. Amazon Cloudformation Template Components - **done**
 398. Hands On Labs - Creating a CF Stack, Updating a Stack, and Stack Change Sets - **done**
+399. AWS Elastic BeanStalk - Introduction - **done**
 #### Section 30: Amazon Elastic Container Services (ECS)
 #### Section 31: Core Knowledge - Application Load Balancer
 413. Classic Load Balancer Refresher and Weaknesses - **done**
