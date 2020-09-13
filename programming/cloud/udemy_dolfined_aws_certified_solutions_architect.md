@@ -385,6 +385,7 @@ Quiz 23: AWS ROUTE 53 - Quiz 1 - 8 Questions - **done**
 407. 8-4) AWS ECS Launch Types - **done**
 408. 8-5) AWS ECS - Task Definitions and Tasks - **done**
 409. 8-6) AWS ECS and IAM Roles - **done**
+410. ALB - Classic Load Balancer and ECS Containers. - **done**
 #### Section 31: Core Knowledge - Application Load Balancer
 413. Classic Load Balancer Refresher and Weaknesses - **done**
 #### Section 32: Amazon Network Load Balancer (NLB)
