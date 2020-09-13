@@ -376,6 +376,7 @@ Quiz 23: AWS ROUTE 53 - Quiz 1 - 8 Questions - **done**
 399. AWS Elastic BeanStalk - Introduction - **done**
 400. Elastic BeanStalk - Components and Concepts - **done**
 401. AWS OpsWorks - Introduction - **done**
+402. AWS Opsworks Stacks and Layers - **done**
 #### Section 30: Amazon Elastic Container Services (ECS)
 #### Section 31: Core Knowledge - Application Load Balancer
 413. Classic Load Balancer Refresher and Weaknesses - **done**
