@@ -381,6 +381,7 @@ Quiz 23: AWS ROUTE 53 - Quiz 1 - 8 Questions - **done**
 #### Section 30: Amazon Elastic Container Services (ECS)
 404. 8-1) AWS EC2 (Elastic) Container Service [ECS] - Why we need it? - **done**
 405. 8-2) AWS ECS - Introduction to Docker - **done**
+406. 8-3) Introduction to AWS ECS - **done**
 #### Section 31: Core Knowledge - Application Load Balancer
 413. Classic Load Balancer Refresher and Weaknesses - **done**
 #### Section 32: Amazon Network Load Balancer (NLB)
