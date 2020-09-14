@@ -371,6 +371,7 @@ Quiz 23: AWS ROUTE 53 - Quiz 1 - 8 Questions - **done**
 322. Amazon CloudFront - Introduction - **done**
 323. Amazon CloudFront Regional Edge Cache - **done**
 324. Amazon CloudFront Distributions - **done**
+325. Amazon CloudFront - Origin types - **done**
 #### Section 26: Messaging and Integration
 #### Section 27: Amazon Serverless Services
 #### Section 28: AWS Caching, Big Data, Data Streaming, Analytics, and IoT Services
