@@ -369,6 +369,7 @@ Quiz 23: AWS ROUTE 53 - Quiz 1 - 8 Questions - **done**
 320. Content Delivery Networks (CDNs) introduction - **done**
 321. Amazon CloudFront - Static and Dynamic Content - **done**
 322. Amazon CloudFront - Introduction - **done**
+323. Amazon CloudFront Regional Edge Cache - **done**
 #### Section 26: Messaging and Integration
 #### Section 27: Amazon Serverless Services
 #### Section 28: AWS Caching, Big Data, Data Streaming, Analytics, and IoT Services
