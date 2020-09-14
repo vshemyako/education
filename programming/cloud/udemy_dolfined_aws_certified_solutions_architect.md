@@ -373,6 +373,7 @@ Quiz 23: AWS ROUTE 53 - Quiz 1 - 8 Questions - **done**
 324. Amazon CloudFront Distributions - **done**
 325. Amazon CloudFront - Origin types - **done**
 326. Amazon CloudFront - Content Delivery - **done**
+327. Amazon CloudFront - Alternate Domain Names - **done**
 #### Section 26: Messaging and Integration
 #### Section 27: Amazon Serverless Services
 #### Section 28: AWS Caching, Big Data, Data Streaming, Analytics, and IoT Services
