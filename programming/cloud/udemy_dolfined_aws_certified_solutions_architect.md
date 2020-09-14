@@ -375,6 +375,7 @@ Quiz 23: AWS ROUTE 53 - Quiz 1 - 8 Questions - **done**
 326. Amazon CloudFront - Content Delivery - **done**
 327. Amazon CloudFront - Alternate Domain Names - **done**
 328. Amazon CloudFront - Supported HTTP Methods & Serving Private Content - **done**
+329. Amazon CloudFront - Viewer & Origin Protocol - & Object Invalidation - **done**
 #### Section 26: Messaging and Integration
 #### Section 27: Amazon Serverless Services
 #### Section 28: AWS Caching, Big Data, Data Streaming, Analytics, and IoT Services
