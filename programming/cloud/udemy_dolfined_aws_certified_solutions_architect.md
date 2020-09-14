@@ -377,6 +377,7 @@ Quiz 23: AWS ROUTE 53 - Quiz 1 - 8 Questions - **done**
 328. Amazon CloudFront - Supported HTTP Methods & Serving Private Content - **done**
 329. Amazon CloudFront - Viewer & Origin Protocol - & Object Invalidation - **done**
 330. Hands On Labs - Configuring a Cloudfront Web Distribution with a S3 AWS Origin - **done**
+331. Amazon CloudFront - Field Level Encryption & WAF & GeoRestriction - **done**
 #### Section 26: Messaging and Integration
 #### Section 27: Amazon Serverless Services
 #### Section 28: AWS Caching, Big Data, Data Streaming, Analytics, and IoT Services
