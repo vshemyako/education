@@ -366,6 +366,7 @@ Quiz 22: S3 Quiz 2 - 9 Questions - **done**
 319. Amazon Route 53 - Pricing - **done**
 Quiz 23: AWS ROUTE 53 - Quiz 1 - 8 Questions - **done**
 #### Section 25: Core Knowledge - AWS CloudFront
+320. Content Delivery Networks (CDNs) introduction - **done**
 #### Section 26: Messaging and Integration
 #### Section 27: Amazon Serverless Services
 #### Section 28: AWS Caching, Big Data, Data Streaming, Analytics, and IoT Services
