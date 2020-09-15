@@ -382,6 +382,7 @@ Quiz 23: AWS ROUTE 53 - Quiz 1 - 8 Questions - **done**
 Quiz 24: AWS Cloudfront Quiz # 1 - 4 Questions - **done**
 #### Section 26: Messaging and Integration
 333. AWS Simple Queue Service (SQS) - Introduction - **done**
+334. AWS SQS - Polling types and SQS Timers - **done**
 #### Section 27: Amazon Serverless Services
 #### Section 28: AWS Caching, Big Data, Data Streaming, Analytics, and IoT Services
 #### Section 29: AWS Services and Strategies for Deployment Management
