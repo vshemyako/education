@@ -387,6 +387,8 @@ Quiz 24: AWS Cloudfront Quiz # 1 - 4 Questions - **done**
 336. Hands On Labs - Simple Queue Service and Integration with SNS - **done**
 337. AWS SQS - Monitoring, SQS queue names, and Logging - **done**
 Quiz 25: AWS SQS Quiz 1 - 7 Questions - **done**
+338. AWS SQS Scenario Based Practice Questions Set #1 - **done**
+339. AWS SQS Scenario Based Practice Questions Set #2 - **done**
 #### Section 27: Amazon Serverless Services
 #### Section 28: AWS Caching, Big Data, Data Streaming, Analytics, and IoT Services
 #### Section 29: AWS Services and Strategies for Deployment Management
