@@ -420,7 +420,7 @@ Quiz 32: AWS ECS Quiz 1 - 5 Questions - **done**
 473. AWS Organizations - **done**
 474. AWS Organizations - Components - **done**
 475. AWS Organizations - Features - **done**
-476. AWS Glue - What is it, how it works, and its components
+476. AWS Glue - What is it, how it works, and its components - **done**
 #### Section 36: Wrap Up
 489. Exam Day - Strategy and Important advice - **done**
 490. Requesting 30 Minutes additional Exam time for Non Native English Speakers - **done**
