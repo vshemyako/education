@@ -384,6 +384,7 @@ Quiz 24: AWS Cloudfront Quiz # 1 - 4 Questions - **done**
 333. AWS Simple Queue Service (SQS) - Introduction - **done**
 334. AWS SQS - Polling types and SQS Timers - **done**
 335. AWS SQS - Reliability, Security, and Encryption - **done**
+336. Hands On Labs - Simple Queue Service and Integration with SNS - **done**
 #### Section 27: Amazon Serverless Services
 #### Section 28: AWS Caching, Big Data, Data Streaming, Analytics, and IoT Services
 #### Section 29: AWS Services and Strategies for Deployment Management
