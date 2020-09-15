@@ -386,6 +386,7 @@ Quiz 24: AWS Cloudfront Quiz # 1 - 4 Questions - **done**
 335. AWS SQS - Reliability, Security, and Encryption - **done**
 336. Hands On Labs - Simple Queue Service and Integration with SNS - **done**
 337. AWS SQS - Monitoring, SQS queue names, and Logging - **done**
+Quiz 25: AWS SQS Quiz 1 - 7 Questions - **done**
 #### Section 27: Amazon Serverless Services
 #### Section 28: AWS Caching, Big Data, Data Streaming, Analytics, and IoT Services
 #### Section 29: AWS Services and Strategies for Deployment Management
