@@ -401,6 +401,7 @@ Quiz 25: AWS SQS Quiz 1 - 7 Questions - **done**
 348. AWS Lambda@Edge - **done**
 349. AWS Lambda Scenario Based Questions Set #1 - **done**
 Quiz 26: AWS Lambda Quiz 1 - 5 Questions - **done**
+350. Introduction to AWS API Gateway - **done**
 #### Section 28: AWS Caching, Big Data, Data Streaming, Analytics, and IoT Services
 #### Section 29: AWS Services and Strategies for Deployment Management
 396. Amazon CloudFormation - **done**
