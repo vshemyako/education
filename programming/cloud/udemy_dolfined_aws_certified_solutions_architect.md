@@ -398,6 +398,7 @@ Quiz 25: AWS SQS Quiz 1 - 7 Questions - **done**
 345. AWS Lambda Use Cases - **done**
 346. AWS Lamda Scaling, Versioning, and Service Limits - **done**
 347. AWS Lambda - Operatins and Monitoring - **done**
+348. AWS Lambda@Edge - **done**
 #### Section 28: AWS Caching, Big Data, Data Streaming, Analytics, and IoT Services
 #### Section 29: AWS Services and Strategies for Deployment Management
 396. Amazon CloudFormation - **done**
