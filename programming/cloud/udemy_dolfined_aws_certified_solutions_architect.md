@@ -394,6 +394,7 @@ Quiz 25: AWS SQS Quiz 1 - 7 Questions - **done**
 341. AWS Serverless (lambda-based) Applications building blocks - **done**
 342. AWS Lambda Function Invocation types - **done**
 343. AWS Lambda Triggers - Event Sources that can Trigger a Lambda Function - **done**
+344. Hands On Labs - Lambda and S3 as a Trigger - **done**
 345. AWS Lambda Use Cases - **done**
 346. AWS Lamda Scaling, Versioning, and Service Limits - **done**
 347. AWS Lambda - Operatins and Monitoring - **done**
