@@ -398,7 +398,7 @@ Quiz 25: AWS SQS Quiz 1 - 7 Questions - **done**
 #### Section 28: AWS Caching, Big Data, Data Streaming, Analytics, and IoT Services
 #### Section 29: AWS Services and Strategies for Deployment Management
 396. Amazon CloudFormation - **done**
-397. Amazon Cloudformation Template Components - **done**
+397. Amazon CloudFormation Template Components - **done**
 398. Hands On Labs - Creating a CF Stack, Updating a Stack, and Stack Change Sets - **done**
 399. AWS Elastic BeanStalk - Introduction - **done**
 400. Elastic BeanStalk - Components and Concepts - **done**
