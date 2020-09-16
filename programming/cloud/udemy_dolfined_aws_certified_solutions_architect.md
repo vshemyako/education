@@ -393,6 +393,7 @@ Quiz 25: AWS SQS Quiz 1 - 7 Questions - **done**
 340. Introduction to AWS Lambda - **done**
 341. AWS Serverless (lambda-based) Applications building blocks - **done**
 342. AWS Lambda Function Invocation types - **done**
+343. AWS Lambda Triggers - Event Sources that can Trigger a Lambda Function - **done**
 #### Section 28: AWS Caching, Big Data, Data Streaming, Analytics, and IoT Services
 #### Section 29: AWS Services and Strategies for Deployment Management
 396. Amazon CloudFormation - **done**
