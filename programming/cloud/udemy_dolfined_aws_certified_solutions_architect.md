@@ -407,6 +407,7 @@ Quiz 26: AWS Lambda Quiz 1 - 5 Questions - **done**
 353. API Gateway CORS & API Operations and Monitoring - **done**
 354. Hands On Labs - API Gateway - **done**
 Quiz 27: AWS API Gateway Quiz 1 - 7 Questions - **done**
+355. AWS API Gateway Scenario Based Practice Questions Set# 1 - **done**
 #### Section 28: AWS Caching, Big Data, Data Streaming, Analytics, and IoT Services
 #### Section 29: AWS Services and Strategies for Deployment Management
 396. Amazon CloudFormation - **done**
