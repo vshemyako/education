@@ -404,6 +404,7 @@ Quiz 26: AWS Lambda Quiz 1 - 5 Questions - **done**
 350. Introduction to AWS API Gateway - **done**
 351. API Gateway Architecture, API Methods and Resources - **done**
 352. API Gateway - Scaling - Throttling and Caching - **done**
+353. API Gateway CORS & API Operations and Monitoring - **done**
 #### Section 28: AWS Caching, Big Data, Data Streaming, Analytics, and IoT Services
 #### Section 29: AWS Services and Strategies for Deployment Management
 396. Amazon CloudFormation - **done**
