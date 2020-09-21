@@ -422,6 +422,7 @@ Quiz 27: AWS API Gateway Quiz 1 - 7 Questions - **done**
 367. DynamoDB Streams - **done**
 368. DynamoDB Transactions - **done**
 369. 7-5) DynamoDB Scalability, Throttling, and Limits - **done**
+Quiz 28: DynamoDB Quiz 1 - 11 Questions - **done**
 #### Section 28: AWS Caching, Big Data, Data Streaming, Analytics, and IoT Services
 #### Section 29: AWS Services and Strategies for Deployment Management
 396. Amazon CloudFormation - **done**
