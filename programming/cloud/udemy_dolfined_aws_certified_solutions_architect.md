@@ -416,6 +416,7 @@ Quiz 27: AWS API Gateway Quiz 1 - 7 Questions - **done**
 361. Hands On Labs - Creating a DynamoDB Simple Key table and Global Tables - **done**
 362. DynamoDB - Local and Global Secondary Indexes - **done**
 363. Hands on Labs - DynamoDB Local and Global Secondary Indexes - **done**
+364. DynamoDB Local, Backup/Restore, Point in Time Recovery, and TTL - **done**
 #### Section 28: AWS Caching, Big Data, Data Streaming, Analytics, and IoT Services
 #### Section 29: AWS Services and Strategies for Deployment Management
 396. Amazon CloudFormation - **done**
