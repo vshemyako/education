@@ -413,6 +413,7 @@ Quiz 27: AWS API Gateway Quiz 1 - 7 Questions - **done**
 358. DynamoDB Introduction - **done**
 359. DynamoDB tables, components, Primary Key - **done**
 360. DynamoDB Table Throughput - **done**
+361. Hands On Labs - Creating a DynamoDB Simple Key table and Global Tables - **done**
 #### Section 28: AWS Caching, Big Data, Data Streaming, Analytics, and IoT Services
 #### Section 29: AWS Services and Strategies for Deployment Management
 396. Amazon CloudFormation - **done**
