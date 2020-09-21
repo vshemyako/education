@@ -447,7 +447,7 @@ Quiz 32: AWS ECS Quiz 1 - 5 Questions - **done**
 411. AWS ECS Scenario Based Practice Questions Set #1 - **done**
 412. AWS ECS Scenario Based Practice Questions Set #2 - **done**
 #### Section 31: Core Knowledge - Application Load Balancer
-413. Classic Load Balancer Refresher and Weaknesses - **done**
+413. Classic Load Balancer Refresher and Weaknesses
 #### Section 32: Amazon Network Load Balancer (NLB)
 #### Section 33: AWS Identity and Access Management ( IAM ) and AWS Directory Services
 #### Section 34: Amazon Data Migration Services and Hybrid Cloud
