@@ -418,6 +418,7 @@ Quiz 27: AWS API Gateway Quiz 1 - 7 Questions - **done**
 363. Hands on Labs - DynamoDB Local and Global Secondary Indexes - **done**
 364. DynamoDB Local, Backup/Restore, Point in Time Recovery, and TTL - **done**
 365. Hands On Labs - DynamoDB Point in Time Recovery, On Demand Backup and TTL - **done**
+366. DynamoDB Accelerator (DAX) - **done**
 #### Section 28: AWS Caching, Big Data, Data Streaming, Analytics, and IoT Services
 #### Section 29: AWS Services and Strategies for Deployment Management
 396. Amazon CloudFormation - **done**
