@@ -427,6 +427,7 @@ Quiz 28: DynamoDB Quiz 1 - 11 Questions - **done**
 371. DynamoDB Scenario Based Practice Questions Set #2 - **done**
 #### Section 28: AWS Caching, Big Data, Data Streaming, Analytics, and IoT Services
 372. Amazon Elastic Map Reduce - Introduction - **done**
+373. AWS EMR - Clusters, Nodes, and deployment in an AZ - **done**
 #### Section 29: AWS Services and Strategies for Deployment Management
 396. Amazon CloudFormation - **done**
 397. Amazon CloudFormation Template Components - **done**
