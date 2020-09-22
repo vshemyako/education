@@ -429,6 +429,7 @@ Quiz 28: DynamoDB Quiz 1 - 11 Questions - **done**
 372. Amazon Elastic Map Reduce - Introduction - **done**
 373. AWS EMR - Clusters, Nodes, and deployment in an AZ - **done**
 374. Amazon Elasticache Introduction - **done**
+375. Amazon Elasticache - Caching Strategies - **done**
 #### Section 29: AWS Services and Strategies for Deployment Management
 396. Amazon CloudFormation - **done**
 397. Amazon CloudFormation Template Components - **done**
