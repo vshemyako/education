@@ -433,6 +433,7 @@ Quiz 28: DynamoDB Quiz 1 - 11 Questions - **done**
 376. Amazon Elasticache for Memcached - **done**
 377. Amazon Elasticache for Redis - **done**
 Quiz 29: Amazon ElastiCache Quiz #1 - 7 Questions - **done**
+378. Amazon Elasticache Scenario Based Questions set #1 - **done**
 #### Section 29: AWS Services and Strategies for Deployment Management
 396. Amazon CloudFormation - **done**
 397. Amazon CloudFormation Template Components - **done**
