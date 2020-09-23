@@ -450,6 +450,7 @@ Quiz 30: AWS Kinesis Quiz 1 - **done**
 391. 4-1) AWS Redshift - Introduction - **done**
 392. 4-2) AWS Redshift Backup/Restore & Monitoring - **done**
 393. 4-3) AWS Redshift - High Availability, Data Durability, Scaling and Billing - **done**
+Quiz 31: AWS Redshift Quiz 1 - 3 Questions - **done**
 #### Section 29: AWS Services and Strategies for Deployment Management
 396. Amazon CloudFormation - **done**
 397. Amazon CloudFormation Template Components - **done**
