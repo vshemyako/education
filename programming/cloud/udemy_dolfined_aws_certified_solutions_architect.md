@@ -443,6 +443,7 @@ Quiz 29: Amazon ElastiCache Quiz #1 - 7 Questions - **done**
 385. Hands On Labs - Kinesis Firehose - **done**
 386. 5-4) AWS Kinesis Analytics - **done**
 Quiz 30: AWS Kinesis Quiz 1 - **done**
+387. 5-5) AWS Kinesis Scenario Based Practice Questions Set #1 - **done**
 #### Section 29: AWS Services and Strategies for Deployment Management
 396. Amazon CloudFormation - **done**
 397. Amazon CloudFormation Template Components - **done**
