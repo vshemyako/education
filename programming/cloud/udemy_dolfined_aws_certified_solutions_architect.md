@@ -439,6 +439,7 @@ Quiz 29: Amazon ElastiCache Quiz #1 - 7 Questions - **done**
 381. 5-1) AWS Kinesis - Introduction - **done**
 382. 5-2) AWS Kinesis Data Streams - **done**
 383. Hands On Labs - Amazon Kinesis Data Streams - **done**
+384. 5-3) AWS Kinesis Data Firehose - **done**
 #### Section 29: AWS Services and Strategies for Deployment Management
 396. Amazon CloudFormation - **done**
 397. Amazon CloudFormation Template Components - **done**
