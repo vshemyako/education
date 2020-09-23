@@ -446,6 +446,7 @@ Quiz 30: AWS Kinesis Quiz 1 - **done**
 387. 5-5) AWS Kinesis Scenario Based Practice Questions Set #1 - **done**
 388. 5-6) AWS Kinesis Scenario Based Practice Questions Set #2 - **done**
 389. 5-7) AWS Kinesis Scenario Based Practice Questions Set #3 - **done**
+390. 5-8) AWS Kinesis Scenario Based Practice Questions Set #4 - **done**
 #### Section 29: AWS Services and Strategies for Deployment Management
 396. Amazon CloudFormation - **done**
 397. Amazon CloudFormation Template Components - **done**
