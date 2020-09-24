@@ -452,6 +452,7 @@ Quiz 30: AWS Kinesis Quiz 1 - **done**
 393. 4-3) AWS Redshift - High Availability, Data Durability, Scaling and Billing - **done**
 Quiz 31: AWS Redshift Quiz 1 - 3 Questions - **done**
 394. 7-6) DynamoDB integration with RedShift and AWS EMR plus Best Practices - **done**
+395. 4-4) AWS Redshift Scenario Based Practice Questions Set #1 - **done**
 #### Section 29: AWS Services and Strategies for Deployment Management
 396. Amazon CloudFormation - **done**
 397. Amazon CloudFormation Template Components - **done**
