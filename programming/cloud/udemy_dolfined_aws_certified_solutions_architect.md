@@ -476,6 +476,7 @@ Quiz 32: AWS ECS Quiz 1 - 5 Questions - **done**
 #### Section 31: Core Knowledge - Application Load Balancer
 413. Classic Load Balancer Refresher and Weaknesses - **done**
 414. Introduction to Application Load Balancer - **done**
+415. ALB Components explained - **done**
 416. Hands on Labs - Creating Route Targets and Application Load Balancer - **done**
 #### Section 32: Amazon Network Load Balancer (NLB)
 #### Section 33: AWS Identity and Access Management ( IAM ) and AWS Directory Services
