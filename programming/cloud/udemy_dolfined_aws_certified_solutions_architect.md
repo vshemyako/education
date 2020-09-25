@@ -484,6 +484,7 @@ Quiz 32: AWS ECS Quiz 1 - 5 Questions - **done**
 420. ALB and ECS Dynamic Host Port Mapping - **done**
 421. ALB Features contrasted to CLB - 1 - **done**
 422. ALB Features contrasted to CLB - 2 - **done**
+423. Monitoring the ALB - **done**
 #### Section 32: Amazon Network Load Balancer (NLB)
 #### Section 33: AWS Identity and Access Management ( IAM ) and AWS Directory Services
 #### Section 34: Amazon Data Migration Services and Hybrid Cloud
