@@ -481,6 +481,7 @@ Quiz 32: AWS ECS Quiz 1 - 5 Questions - **done**
 417. ALB Listener Rules - **done**
 418. ALB Content Routing ( Host and Path based routing) - **done**
 419. ALB - Containers and Microservices Support - **done**
+420. ALB and ECS Dynamic Host Port Mapping - **done**
 #### Section 32: Amazon Network Load Balancer (NLB)
 #### Section 33: AWS Identity and Access Management ( IAM ) and AWS Directory Services
 #### Section 34: Amazon Data Migration Services and Hybrid Cloud
