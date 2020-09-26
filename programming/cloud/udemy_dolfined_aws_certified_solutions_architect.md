@@ -492,6 +492,7 @@ Quiz 32: AWS ECS Quiz 1 - 5 Questions - **done**
 427. Amazon NLB - L2.5 Features and How it Works - **done**
 428. Amazon NLB - Features and How it Works (Cont.) - **done**
 429. Amazon NLB - Supported Target Types - **done**
+430. Amazon NLB - Source IP Address Preservation - **done**
 #### Section 33: AWS Identity and Access Management ( IAM ) and AWS Directory Services
 #### Section 34: Amazon Data Migration Services and Hybrid Cloud
 #### Section 35: Misc Services
