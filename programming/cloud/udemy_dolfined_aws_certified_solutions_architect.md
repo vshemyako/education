@@ -494,6 +494,7 @@ Quiz 32: AWS ECS Quiz 1 - 5 Questions - **done**
 429. Amazon NLB - Supported Target Types - **done**
 430. Amazon NLB - Source IP Address Preservation - **done**
 431. Amazon NLB - Proxy Protocol - Health Checks - Monitoring - **done**
+432. Amazon NLB - Troubleshooting Some Common Problems - **done**
 #### Section 33: AWS Identity and Access Management ( IAM ) and AWS Directory Services
 #### Section 34: Amazon Data Migration Services and Hybrid Cloud
 #### Section 35: Misc Services
