@@ -498,6 +498,7 @@ Quiz 32: AWS ECS Quiz 1 - 5 Questions - **done**
 #### Section 33: AWS Identity and Access Management ( IAM ) and AWS Directory Services
 #### Section 34: Amazon Data Migration Services and Hybrid Cloud
 465. AWS Snowball - **done**
+466. AWS Snowball, SnowBall Edge, Snowmobile - **done**
 #### Section 35: Misc Services
 473. AWS Organizations - **done**
 474. AWS Organizations - Components - **done**
