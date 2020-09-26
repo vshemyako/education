@@ -489,6 +489,7 @@ Quiz 32: AWS ECS Quiz 1 - 5 Questions - **done**
 #### Section 32: Amazon Network Load Balancer (NLB)
 425. Amazon ELB - Network Load Balancing (NLB) - Agenda - **done**
 426. Quick Amazon ELB Recap - **done**
+427. Amazon NLB - L2.5 Features and How it Works - **done**
 #### Section 33: AWS Identity and Access Management ( IAM ) and AWS Directory Services
 #### Section 34: Amazon Data Migration Services and Hybrid Cloud
 #### Section 35: Misc Services
