@@ -505,6 +505,7 @@ Quiz 32: AWS ECS Quiz 1 - 5 Questions - **done**
 470. AWS DataBase Migration Service (AWS DMS) - **done**
 471. AWS Database Migration Services - How it works and Schema Conversion Tool (SCT) - **done**
 472. AWS DMS Components - Replication Instance, Multi AZ, DMS and VPC - **done**
+473. AWS Server Migration Service (SMS) - **done**
 #### Section 35: Misc Services
 473. AWS Organizations - **done**
 474. AWS Organizations - Components - **done**
