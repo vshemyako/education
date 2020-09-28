@@ -503,6 +503,7 @@ Quiz 32: AWS ECS Quiz 1 - 5 Questions - **done**
 468. AWS Storage Gateway - Snowball - VM Import/Export - **done**
 469. Hands On Labs - AWS Storage Gateway console Walkthough - **done**
 470. AWS DataBase Migration Service (AWS DMS) - **done**
+471. AWS Database Migration Services - How it works and Schema Conversion Tool (SCT) - **done**
 #### Section 35: Misc Services
 473. AWS Organizations - **done**
 474. AWS Organizations - Components - **done**
