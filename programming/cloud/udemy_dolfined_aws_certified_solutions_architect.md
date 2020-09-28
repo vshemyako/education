@@ -504,6 +504,7 @@ Quiz 32: AWS ECS Quiz 1 - 5 Questions - **done**
 469. Hands On Labs - AWS Storage Gateway console Walkthough - **done**
 470. AWS DataBase Migration Service (AWS DMS) - **done**
 471. AWS Database Migration Services - How it works and Schema Conversion Tool (SCT) - **done**
+472. AWS DMS Components - Replication Instance, Multi AZ, DMS and VPC - **done**
 #### Section 35: Misc Services
 473. AWS Organizations - **done**
 474. AWS Organizations - Components - **done**
