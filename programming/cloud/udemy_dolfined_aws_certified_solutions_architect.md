@@ -496,6 +496,7 @@ Quiz 32: AWS ECS Quiz 1 - 5 Questions - **done**
 431. Amazon NLB - Proxy Protocol - Health Checks - Monitoring - **done**
 432. Amazon NLB - Troubleshooting Some Common Problems - **done**
 #### Section 33: AWS Identity and Access Management ( IAM ) and AWS Directory Services
+433. AWS Directory Services - Introduction - **done**
 #### Section 34: Amazon Data Migration Services and Hybrid Cloud
 465. AWS Snowball - **done**
 466. AWS Snowball, SnowBall Edge, Snowmobile - **done**
