@@ -507,10 +507,11 @@ Quiz 32: AWS ECS Quiz 1 - 5 Questions - **done**
 472. AWS DMS Components - Replication Instance, Multi AZ, DMS and VPC - **done**
 473. AWS Server Migration Service (SMS) - **done**
 #### Section 35: Misc Services
-473. AWS Organizations - **done**
-474. AWS Organizations - Components - **done**
-475. AWS Organizations - Features - **done**
-476. AWS Glue - What is it, how it works, and its components - **done**
+474. AWS Organizations - **done**
+475. AWS Organizations - Components - **done**
+476. AWS Organizations - Features - **done**
+477. AWS Glue - What is it, how it works, and its components - **done**
+478. AWS Systems Manager - **done**
 #### Section 36: Wrap Up
 489. Exam Day - Strategy and Important advice - **done**
 490. Requesting 30 Minutes additional Exam time for Non Native English Speakers - **done**
