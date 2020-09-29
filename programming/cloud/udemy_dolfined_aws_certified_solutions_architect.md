@@ -522,6 +522,7 @@ Quiz 32: AWS ECS Quiz 1 - 5 Questions - **done**
 486. AWS Resource Access Manager (AWS RAM) - **done**
 487. Amazon SWF - Introduction, Benefits and Concepts - **done**
 488. AWS SWF - Concepts, Task Types and Endpoints - **done**
+489. AWS Step Functions - **done**
 #### Section 36: Wrap Up
 489. Exam Day - Strategy and Important advice - **done**
 490. Requesting 30 Minutes additional Exam time for Non Native English Speakers - **done**
