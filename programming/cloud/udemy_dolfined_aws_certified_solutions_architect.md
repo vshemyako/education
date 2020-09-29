@@ -519,6 +519,7 @@ Quiz 32: AWS ECS Quiz 1 - 5 Questions - **done**
 483. AWS Config - **done**
 484. AWS Batch - **done**
 485. Amazon X-Ray - **done**
+486. AWS Resource Access Manager (AWS RAM) - **done**
 #### Section 36: Wrap Up
 489. Exam Day - Strategy and Important advice - **done**
 490. Requesting 30 Minutes additional Exam time for Non Native English Speakers - **done**
