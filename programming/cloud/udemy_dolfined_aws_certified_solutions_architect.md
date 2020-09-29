@@ -499,6 +499,7 @@ Quiz 32: AWS ECS Quiz 1 - 5 Questions - **done**
 433. AWS Directory Services - Introduction - **done**
 434. AWS Services - AWS Microsoft Active Directory - 1 - **done**
 435. AWS Services - AWS Microsoft Active Directory - 2 - **done**
+436. AWS Directory Service - AWS Simple AD - **done**
 #### Section 34: Amazon Data Migration Services and Hybrid Cloud
 465. AWS Snowball - **done**
 466. AWS Snowball, SnowBall Edge, Snowmobile - **done**
