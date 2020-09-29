@@ -513,6 +513,7 @@ Quiz 32: AWS ECS Quiz 1 - 5 Questions - **done**
 477. AWS Glue - What is it, how it works, and its components - **done**
 478. AWS Systems Manager - **done**
 479. AWS Parameter Store - **done**
+480. Amazon Athena - **done**
 #### Section 36: Wrap Up
 489. Exam Day - Strategy and Important advice - **done**
 490. Requesting 30 Minutes additional Exam time for Non Native English Speakers - **done**
