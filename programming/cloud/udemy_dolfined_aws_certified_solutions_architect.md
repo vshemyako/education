@@ -502,6 +502,7 @@ Quiz 32: AWS ECS Quiz 1 - 5 Questions - **done**
 436. AWS Directory Service - AWS Simple AD - **done**
 437. AWS Services - AWS Directory Services - AWS Connector - **done**
 Quiz 33: AWS Directory Service Quiz # 1 - 5 Questions - **done**
+438. AWS Directory Service - Scenario Based Questions Set #1 - **done**
 #### Section 34: Amazon Data Migration Services and Hybrid Cloud
 465. AWS Snowball - **done**
 466. AWS Snowball, SnowBall Edge, Snowmobile - **done**
