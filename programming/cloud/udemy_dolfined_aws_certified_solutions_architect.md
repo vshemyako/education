@@ -507,6 +507,7 @@ Quiz 33: AWS Directory Service Quiz # 1 - 5 Questions - **done**
 440. AWS Identity and Access Management (IAM) - Introduction - **done**
 441. IAM - Features - **done**
 442. IAM Elements - **done**
+454. IAM Logging using AWS CloudTrail - **done**
 #### Section 34: Amazon Data Migration Services and Hybrid Cloud
 465. AWS Snowball - **done**
 466. AWS Snowball, SnowBall Edge, Snowmobile - **done**
