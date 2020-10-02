@@ -509,6 +509,7 @@ Quiz 33: AWS Directory Service Quiz # 1 - 5 Questions - **done**
 442. IAM Elements - **done**
 443. IAM Elements (Actions and Resources) - **done**
 444. IAM & Identity Federation - **done**
+445. IAM - Identities - Groups, Roles and Temporary Credentials - **done**
 454. IAM Logging using AWS CloudTrail - **done**
 #### Section 34: Amazon Data Migration Services and Hybrid Cloud
 465. AWS Snowball - **done**
