@@ -516,6 +516,7 @@ Quiz 33: AWS Directory Service Quiz # 1 - 5 Questions - **done**
 449. IAM Roles - **done**
 450. IAM Service Roles - **done**
 451. IAM Role Delegation - **done**
+452. AWS Cross-Account Access - **done**
 453. IAM Users and Roles - When to use what? - **done**
 454. IAM Logging using AWS CloudTrail - **done**
 #### Section 34: Amazon Data Migration Services and Hybrid Cloud
