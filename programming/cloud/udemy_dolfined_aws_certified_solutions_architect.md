@@ -519,6 +519,7 @@ Quiz 33: AWS Directory Service Quiz # 1 - 5 Questions - **done**
 452. AWS Cross-Account Access - **done**
 453. IAM Users and Roles - When to use what? - **done**
 454. IAM Logging using AWS CloudTrail - **done**
+455. IAM Best Practices - **done**
 #### Section 34: Amazon Data Migration Services and Hybrid Cloud
 465. AWS Snowball - **done**
 466. AWS Snowball, SnowBall Edge, Snowmobile - **done**
