@@ -513,6 +513,7 @@ Quiz 33: AWS Directory Service Quiz # 1 - 5 Questions - **done**
 446. IAM Identity-based and Resource-based policies - **done**
 447. IAM Users deep dive - **done**
 448. IAM User Credentials detailed - **done**
+449. IAM Roles - **done**
 454. IAM Logging using AWS CloudTrail - **done**
 #### Section 34: Amazon Data Migration Services and Hybrid Cloud
 465. AWS Snowball - **done**
