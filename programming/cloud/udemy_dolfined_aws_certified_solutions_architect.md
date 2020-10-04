@@ -529,6 +529,7 @@ Quiz 34: AWS IAM Quiz 1 - 12 Questions - **done**
 461. Web Identity Federation using STS - **done**
 462. Identity Federation with SAML 2.0 - AWS API Access - **done**
 463. Identity Federation with SAML 2.0 - Console Access - **done**
+Quiz 35: AWS Secure Token Service (STS) Quiz 1 - 5 Questions - **done**
 #### Section 34: Amazon Data Migration Services and Hybrid Cloud
 465. AWS Snowball - **done**
 466. AWS Snowball, SnowBall Edge, Snowmobile - **done**
