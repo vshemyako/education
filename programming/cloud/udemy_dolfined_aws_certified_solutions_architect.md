@@ -525,6 +525,7 @@ Quiz 34: AWS IAM Quiz 1 - 12 Questions - **done**
 457. AWS IAM Scenario Based Practice Questions Set #2 - **done**
 458. Security Token Service (STS) - Introduction - **done**
 459. WebID Federation and STS Credentials - **done**
+460. Using STS Security Credentials - WebID Federation example - **done**
 #### Section 34: Amazon Data Migration Services and Hybrid Cloud
 465. AWS Snowball - **done**
 466. AWS Snowball, SnowBall Edge, Snowmobile - **done**
